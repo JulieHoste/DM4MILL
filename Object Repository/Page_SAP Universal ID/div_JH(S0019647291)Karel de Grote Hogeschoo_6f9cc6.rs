@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_JH(S0019647291)Karel de Grote Hogeschoo_6f9cc6</name>
+   <tag></tag>
+   <elementGuidId>c2468460-1ded-453d-b921-5a948a51b925</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#S0019647291 > div</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='S0019647291']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div >> internal:has-text=/^JH\(S0019647291\)Karel de Grote Hogeschool \(Belgium\)$/ >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5da81f3d-c020-49fe-9716-931ae07ccf7d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>JH(S0019647291)Karel de Grote Hogeschool (Belgium)</value>
+      <webElementGuid>5df32d6d-5bfa-4063-95a7-820d0343eb94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;S0019647291&quot;)/div[1]</value>
+      <webElementGuid>a228bcda-7f7c-47cf-b78b-cdb8b8c0b2e7</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='S0019647291']/div</value>
+      <webElementGuid>bdaad139-e87a-4073-8814-8a410655b115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Order'])[1]/following::div[5]</value>
+      <webElementGuid>20f7a236-1852-46bf-a733-186fe706cbb5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nickname'])[1]/following::div[6]</value>
+      <webElementGuid>5773e480-e569-4c30-806c-9443d18f8303</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div</value>
+      <webElementGuid>59141ea0-1388-400d-8d60-b6b877dce17b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'JH(S0019647291)Karel de Grote Hogeschool (Belgium)' or . = 'JH(S0019647291)Karel de Grote Hogeschool (Belgium)')]</value>
+      <webElementGuid>c3eac098-70e2-4fd9-adb0-7e8740ad8895</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

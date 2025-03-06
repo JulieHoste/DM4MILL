@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_DM4Mill GR</name>
+   <tag></tag>
+   <elementGuidId>f1cd9d4e-c79a-42fc-8f14-e22b3ada961f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile142-title-inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//span[@id='__tile142-title-inner']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;DM4Mill GR \nGood Receipts \n\nGR\nTile&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>846a515b-17b1-4b27-98e2-2770663e994e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>__tile142-title-inner</value>
+      <webElementGuid>b65b8b0d-ff7d-40d6-a750-a38c0d0c1be4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMTextMaxLine sapMTextLineClamp</value>
+      <webElementGuid>8c8de26f-b5bb-4a35-9cc6-b0aad6f90524</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>DM4Mill GR </value>
+      <webElementGuid>48ceba40-f0c4-422d-b067-a08bd593948a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;__tile142-title-inner&quot;)</value>
+      <webElementGuid>f46aa17d-c046-43b4-8a27-5ceb33bb810f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//span[@id='__tile142-title-inner']</value>
+      <webElementGuid>48163c80-5497-4a10-af10-6dbb4ae33691</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//span[@id='__tile142-title']/span</value>
+      <webElementGuid>86716616-fabe-4549-8118-21972d6a5afc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Com­po­nent Con­sump­tion Rec­on­cil­i­a­tion'])[1]/following::span[3]</value>
+      <webElementGuid>f8042209-23b5-4aa5-9149-de9f7aaa573d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per­form Visual Inspec­tions'])[1]/following::span[7]</value>
+      <webElementGuid>29b5fd21-9586-4a4a-a45c-45023a98f7cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Receipts'])[1]/preceding::span[1]</value>
+      <webElementGuid>0e528046-0056-4d86-b8db-b8ba3b0dadee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='GR'])[1]/preceding::span[3]</value>
+      <webElementGuid>8e13c0be-d2b5-4e9d-bdb5-78eedd06566d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='DM4Mill GR']/parent::*</value>
+      <webElementGuid>4d4d9aae-0824-4393-869c-357b44b1a168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[31]/div/div/div/div/div/a/div/div/span/span</value>
+      <webElementGuid>f72bf499-8b1a-42fe-8e57-4eb808cae798</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[@id = '__tile142-title-inner' and (text() = 'DM4Mill GR ' or . = 'DM4Mill GR ')]</value>
+      <webElementGuid>11e5e060-e1f0-43e5-a4cd-89466ee2912b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

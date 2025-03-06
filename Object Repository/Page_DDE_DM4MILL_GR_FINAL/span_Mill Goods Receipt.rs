@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Mill Goods Receipt</name>
+   <tag></tag>
+   <elementGuidId>b6174c04-388d-4e1c-9b6a-722531127410</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#DETAILSView--icontabfilterCSGXHZB1-text > span.sapMITHTextContent</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1-text']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Mill Goods Receipt&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>68d7ebbc-0f13-4e17-a7b5-fa0163a69d7b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>dir</name>
+      <type>Main</type>
+      <value>auto</value>
+      <webElementGuid>fa1db2e3-452f-4cc2-8d4f-7a94f7ed12af</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sapMITHTextContent</value>
+      <webElementGuid>1c228336-8c88-4cda-b1d9-2305d1c3a4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Mill Goods Receipt</value>
+      <webElementGuid>63ba5974-c9db-4680-87d0-d7bcdef05042</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;DETAILSView--icontabfilterCSGXHZB1-text&quot;)/span[@class=&quot;sapMITHTextContent&quot;]</value>
+      <webElementGuid>85a7d837-2c87-4cdf-970e-b1d7a08b246b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1-text']/span</value>
+      <webElementGuid>524021f1-d2e5-488f-88ed-7f831666a2f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation Details'])[1]/following::span[2]</value>
+      <webElementGuid>fce8865e-7dfa-4792-8933-c2cb0b76e30f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Positive'])[1]/following::span[5]</value>
+      <webElementGuid>ba024d34-b1f2-4446-988c-9ae38684b115</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[2]/preceding::span[3]</value>
+      <webElementGuid>5b556825-5f7b-4778-90f1-386342d19b77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation ID'])[2]/preceding::span[11]</value>
+      <webElementGuid>d301ee5c-4753-43cb-865b-75e1416da3cf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Mill Goods Receipt']/parent::*</value>
+      <webElementGuid>560446e5-645d-4efc-810c-397aeb4e2e65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/span</value>
+      <webElementGuid>c68f4b78-c81b-4307-b8f6-6e360ad35505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Mill Goods Receipt' or . = 'Mill Goods Receipt')]</value>
+      <webElementGuid>08117c0e-6543-4016-a5c7-585ca31898ee</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

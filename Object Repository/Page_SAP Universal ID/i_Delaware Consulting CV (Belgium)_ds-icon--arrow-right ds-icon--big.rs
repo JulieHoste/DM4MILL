@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>i_Delaware Consulting CV (Belgium)_ds-icon--arrow-right ds-icon--big</name>
+   <tag></tag>
+   <elementGuidId>3b07021f-782e-4926-b9a4-5e42cdb13628</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.ds-icon--arrow-right.ds-icon--big</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='S0026841138']/div/div[3]/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#S0026841138 [data-testid=&quot;\&lt;DsSelect\>-icon&quot;]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>af3e21c2-f372-4d2f-b145-ffc700c13ab3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ds-icon--arrow-right ds-icon--big</value>
+      <webElementGuid>fd9f61e3-ccec-4494-b970-38ce8e4f4471</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-testid</name>
+      <type>Main</type>
+      <value>&lt;DsSelect>-icon</value>
+      <webElementGuid>23f3848b-0068-419a-b575-8b2935611473</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;S0026841138&quot;)/div[1]/div[@class=&quot;uid-selector-arrow&quot;]/i[@class=&quot;ds-icon--arrow-right ds-icon--big&quot;]</value>
+      <webElementGuid>3bb3c024-bb57-4320-bdaf-28d2ca37ac9c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='S0026841138']/div/div[3]/i</value>
+      <webElementGuid>0e262451-539f-4f45-b89b-f50ae8987282</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/i</value>
+      <webElementGuid>afe853a1-3d65-4fe9-a353-1f04b4b3a917</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
