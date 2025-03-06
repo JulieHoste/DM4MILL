@@ -1,0 +1,48 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider"))
+
+3
+00:00:00,000 --> 00:00:00,000
+9. setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), "julie.hoste@delaware.pro")
+
+4
+00:00:00,000 --> 00:00:00,000
+13. delay(2)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. click(findTestObject("Object Repository/Page_Sign In/button_Continue"))
+
+6
+00:00:00,000 --> 00:00:00,000
+21. delay(2)
+
+7
+00:00:00,000 --> 00:00:00,000
+25. enhancedClick(findTestObject("Object Repository/Page_SAP Universal ID/button_I accept all cookies"))
+
+8
+00:00:00,000 --> 00:00:00,000
+29. setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ==")
+
+9
+00:00:00,000 --> 00:00:00,000
+33. click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1"))
+
+10
+00:00:00,000 --> 00:00:00,000
+37. setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ==")
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1"), STOP_ON_FAILURE)
+
+12
+00:00:00,000 --> 00:00:00,000
+45. delay(4)
+

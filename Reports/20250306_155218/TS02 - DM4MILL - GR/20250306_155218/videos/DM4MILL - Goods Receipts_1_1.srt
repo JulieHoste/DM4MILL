@@ -1,0 +1,8 @@
+1
+00:00:00,009 --> 00:00:05,025
+1. openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home")
+
+2
+00:00:05,027 --> 00:00:08,754
+5. enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider"))
+

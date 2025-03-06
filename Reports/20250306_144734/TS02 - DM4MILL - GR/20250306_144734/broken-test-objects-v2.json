@@ -1,0 +1,14 @@
+{
+  "brokenTestObjects": [
+    {
+      "approved": true,
+      "testObjectId": "Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1002612",
+      "brokenLocator": "//td[@id\u003d\u0027__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0\u0027]",
+      "brokenLocatorMethod": "XPATH",
+      "proposedLocator": "(.//*[normalize-space(text()) and normalize-space(.)\u003d\u0027Active\u0027])[1]/preceding::td[2]",
+      "proposedLocatorMethod": "XPATH",
+      "recoveryMethod": "XPATH",
+      "pathToScreenshot": "Reports/20250306_144734/TS02 - DM4MILL - GR/20250306_144734/Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1002612_neighbor.png"
+    }
+  ]
+}
