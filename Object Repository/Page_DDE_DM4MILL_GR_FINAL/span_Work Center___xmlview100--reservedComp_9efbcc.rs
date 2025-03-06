@@ -6,12 +6,12 @@
    <elementGuidId>f5b8b4b8-fcd2-4f25-9b53-fbb67e3d82d1</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>48a7948a-5e1c-49cb-83cb-0fe41ce2e635</webElementGuid>
+      <webElementGuid>66972a91-a67f-4159-96cf-634b1361fe9a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi</value>
-      <webElementGuid>d1e2f862-40b8-4d4e-a1cf-4b6eccf58ffb</webElementGuid>
+      <webElementGuid>7c962df0-4fc1-4c59-ae41-90d25c52164e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-sap-ui</name>
       <type>Main</type>
       <value>__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi</value>
-      <webElementGuid>f4dfbead-e4a2-4227-9b0b-ec3ce97f8f1a</webElementGuid>
+      <webElementGuid>b9aca371-495d-4b94-8b33-2e59605ff89c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>role</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>813bdb2e-a415-4007-b1ef-c4b3772717a5</webElementGuid>
+      <webElementGuid>e8867dd5-14fa-4d44-8533-8c06fa05a29d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Show Value Help</value>
-      <webElementGuid>157bbd36-69df-4b6d-877c-335b798abfe8</webElementGuid>
+      <webElementGuid>0a5c4b22-77e3-45bd-9eae-ad2c156ca18a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-sap-ui-icon-content</name>
       <type>Main</type>
       <value></value>
-      <webElementGuid>e2cea256-4088-4483-aa99-675c2112eb22</webElementGuid>
+      <webElementGuid>5040c3fb-8890-4057-9628-f1a363ec0b03</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapUiIcon sapUiIconMirrorInRTL sapUiIconPointer sapMInputBaseIcon</value>
-      <webElementGuid>631abf38-3ce0-4561-9210-97b4164ea72f</webElementGuid>
+      <webElementGuid>d465d83a-ce31-4c3c-8373-f5c1804d08f2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi&quot;)</value>
-      <webElementGuid>36335137-790d-4270-915f-82348be1bd70</webElementGuid>
+      <webElementGuid>a4bdb86b-99e4-4a34-beda-e84200e21897</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi']</value>
-      <webElementGuid>da68b8d3-8a41-46dc-b948-d93365937b0f</webElementGuid>
+      <webElementGuid>f4de4319-6742-40f8-b9ed-3e0a837b0627</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-content']/div[2]/span[2]</value>
-      <webElementGuid>2122f8bf-13e9-47f3-a535-df645b004aa1</webElementGuid>
+      <webElementGuid>90cb7be2-7750-4afd-b584-53d6f12faf4f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/span[2]</value>
-      <webElementGuid>ae680ac5-12a8-4cee-96ea-6b9a06b8d093</webElementGuid>
+      <webElementGuid>f58a50c9-ec6a-47cb-893a-7a888d876cc6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterFilter-vhi']</value>
-      <webElementGuid>637e791f-be18-47c7-a90a-f526727597e6</webElementGuid>
+      <webElementGuid>d5ab8ba3-07fb-474f-9fd7-c6a0d60f181b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

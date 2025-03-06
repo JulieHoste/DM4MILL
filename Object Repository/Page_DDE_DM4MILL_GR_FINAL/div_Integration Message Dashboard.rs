@@ -6,12 +6,12 @@
    <elementGuidId>02f870e3-aeeb-4971-8ed6-8f8c09c551df</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__box5</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='__box5']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__box5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e9a1df8d-f125-4679-940f-41aa958b2179</webElementGuid>
+      <webElementGuid>61697536-146d-424f-b22c-0ee104b832df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__box5</value>
-      <webElementGuid>f7fc8137-2b79-4ea8-93c9-9c2955c6ace5</webElementGuid>
+      <webElementGuid>766b894d-78fc-4e02-af98-fe2ceac8e094</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>data-sap-ui</name>
       <type>Main</type>
       <value>__box5</value>
-      <webElementGuid>7cf22215-7620-42d9-9c5b-e9e6c9f9b6c0</webElementGuid>
+      <webElementGuid>4ba08b0d-a3e3-4a6a-8ca9-4a3a5b0e06af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMFlexBox sapMHBox sapMFlexBoxJustifyStart sapMFlexBoxAlignItemsCenter sapMFlexBoxWrapNoWrap sapMFlexBoxAlignContentStretch sapMFlexBoxBGTransparent</value>
-      <webElementGuid>1ead194e-083d-4adc-b268-ae965874f19d</webElementGuid>
+      <webElementGuid>14e570fc-d214-4bf3-8d38-23b6d402922f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Integration Message Dashboard</value>
-      <webElementGuid>e5255da7-6d32-4126-ab54-588abd9130f0</webElementGuid>
+      <webElementGuid>e535ad0a-900b-4894-824f-47e2b007373a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__box5&quot;)</value>
-      <webElementGuid>75211d50-c090-44e3-95c1-df50ba3df3e2</webElementGuid>
+      <webElementGuid>ccb1351e-3bb0-4a90-bfa3-d1c44ae3d760</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//div[@id='__box5']</value>
-      <webElementGuid>96f46765-473c-498a-8ce3-324cbc7d8355</webElementGuid>
+      <webElementGuid>b9c3ea21-f12e-4562-9c00-d0a9a463fecd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='__item83-content']/div</value>
-      <webElementGuid>3f76395d-53e1-412c-b905-71b3a66ed398</webElementGuid>
+      <webElementGuid>7ea4f3a4-2d1f-4f2e-b3f1-b2218d3b6e47</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li/div/div</value>
-      <webElementGuid>2db4fbf4-3723-481b-8d02-7e6120722fb8</webElementGuid>
+      <webElementGuid>9e37d053-9a0c-428d-bd28-f4ddc24342e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[@id = '__box5' and (text() = 'Integration Message Dashboard' or . = 'Integration Message Dashboard')]</value>
-      <webElementGuid>f2c715f8-3d87-4a09-b7a9-6669f76c5e71</webElementGuid>
+      <webElementGuid>d57f08cf-5ccb-4c2a-b315-8bdfb50d72ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

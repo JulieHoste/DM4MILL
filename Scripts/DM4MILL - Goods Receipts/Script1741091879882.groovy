@@ -16,8 +16,17 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.checkpoint.CheckpointFactory as CheckpointFactory
+import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as MobileBuiltInKeywords
+import com.kms.katalon.core.testcase.TestCaseFactory as TestCaseFactory
+import com.kms.katalon.core.testdata.TestDataFactory as TestDataFactory
+import com.kms.katalon.core.testobject.ObjectRepository as ObjectRepository
+import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WSBuiltInKeywords
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUiBuiltInKeywords
 
 WebUI.openBrowser('https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home')
+
+WebUI.maximizeWindow()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/a_Default Identity Provider'))
 
@@ -31,9 +40,15 @@ WebUI.delay(2)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_SAP Universal ID/button_I accept all cookies'))
 
+WebUI.delay(2)
+
 WebUI.setEncryptedText(findTestObject('Object Repository/Page_SAP Universal ID/input_pro_password'), 'UB7+rfb8H+So++oIaShgEQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_SAP Universal ID/button_Sign in_1'), FailureHandling.STOP_ON_FAILURE)
+not_run: WebUI.click(findTestObject('Object Repository/Page_SAP Universal ID/button_Sign in_1'))
+
+not_run: WebUI.setEncryptedText(findTestObject('Object Repository/Page_SAP Universal ID/input_pro_password'), 'UB7+rfb8H+So++oIaShgEQ==')
+
+WebUI.click(findTestObject('Object Repository/Page_SAP Universal ID/button_Sign in_1'))
 
 WebUI.delay(4)
 
@@ -50,6 +65,8 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'), 
     '43')
 
+WebUI.delay(3)
+
 WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f'))
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select'))
@@ -57,28 +74,34 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78'), 
-    '1002612')
+    '1003344')
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go'))
 
-WebUI.verifyElementVisible(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1002612'))
+WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2'))
 
-WebUI.verifyElementText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1002612'), '1002612')
+WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
 
-WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1002612'))
+WebUI.delay(2)
 
-WebUI.delay(3)
-
-WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
-
-WebUI.doubleClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'))
+WebUI.clearText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'), 
+    FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'), 
-    '10')
+    '1')
 
 WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Post GR'))
 
-WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search'), 'integration')
+WebUI.delay(3)
 
-WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Integration Message Dashboard'))
+WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_'))
+
+WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search'), 'Integration Message Dashboard')
+
+WebUI.sendKeys(findTestObject('Object Repository/Page_Integration Message Dashboard/input_Plant 1210 ( DDE - Plant )_search'), 
+    Keys.chord(Keys.ENTER))
+
+WebUI.delay(2)
+
+WebUI.click(findTestObject('Object Repository/Page_Search for Integration Message dashboa_230a0e/div_Integration Message Dashboard'))
 

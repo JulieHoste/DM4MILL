@@ -6,12 +6,12 @@
    <elementGuidId>edd8e2c1-ee6d-4125-8e58-5a413c17748e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//td[@id='__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0']</value>
+         <key>CSS</key>
+         <value>#__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>td</value>
-      <webElementGuid>1f286f06-35a1-4e67-a76b-8d39861b4286</webElementGuid>
+      <webElementGuid>05c7d5ad-d30d-4f3d-bb75-59818612f854</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0</value>
-      <webElementGuid>5b65c087-0447-412c-b497-8fec8f9f1b2f</webElementGuid>
+      <webElementGuid>1d7850a1-f34c-4c4f-92f4-9bfda8961b68</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>role</name>
       <type>Main</type>
       <value>gridcell</value>
-      <webElementGuid>21fe9b60-6744-41c9-ac27-d565c623a388</webElementGuid>
+      <webElementGuid>3dc19da6-b092-4138-9420-07496a34406f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-colindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>b5c4a59f-c4d8-49dc-ac55-0390c7405ae1</webElementGuid>
+      <webElementGuid>74fd89b5-7ebb-4e55-959c-d87d645864af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-selected</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>b667b8dc-2989-48ef-a086-d512dcfdd783</webElementGuid>
+      <webElementGuid>6afee2e9-397a-40f4-a83a-d167006cba9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>data-sap-ui-column</name>
       <type>Main</type>
       <value>__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable_ORDER_ID_COLUMN_column</value>
-      <webElementGuid>24f053b9-86c4-4cbd-a559-c9dbe76d5feb</webElementGuid>
+      <webElementGuid>66bc08e1-8dde-4bce-8b7e-6689fddca319</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMListTblCell sapMTblCellFocusable</value>
-      <webElementGuid>65291dbb-4239-4710-b08d-8b503da50afb</webElementGuid>
+      <webElementGuid>bb69b90f-585d-4aa1-89b9-1db2d68746cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>-1</value>
-      <webElementGuid>90f56bcb-f352-47c8-aa92-8a584a84dad8</webElementGuid>
+      <webElementGuid>939b9309-9ccb-45d9-b602-4121b644da0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>text</name>
       <type>Main</type>
       <value>1002612</value>
-      <webElementGuid>eec7b49e-f492-4316-865a-10e6a2fbc4ff</webElementGuid>
+      <webElementGuid>9b823ba4-def6-4ef6-8688-6cc533a9aa22</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0&quot;)</value>
-      <webElementGuid>88fb75d2-3975-4caa-82bc-b193b765a391</webElementGuid>
+      <webElementGuid>d1b78ab4-9c68-46d9-8a5e-6cae3f4cb9e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0']</value>
-      <webElementGuid>b08c67b2-d5a7-47d7-a555-4bca98a559ff</webElementGuid>
+      <webElementGuid>7c6d3356-8674-4572-994a-c27d39cbc933</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132']/td[3]</value>
-      <webElementGuid>61e70723-3bef-4983-91c2-35dcb7762d62</webElementGuid>
+      <webElementGuid>9625cca5-efd4-4571-a543-4171fc3c5c3f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SFC Quantity'])[1]/following::td[3]</value>
-      <webElementGuid>3b40f246-d366-42d3-a83b-10dca7d73c30</webElementGuid>
+      <webElementGuid>68c29299-fe5e-41ca-ae8b-7eca72d7b8ca</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Planned Date Range'])[1]/following::td[3]</value>
-      <webElementGuid>274e6de1-caa8-45b3-a37a-fbe0a9f77d65</webElementGuid>
+      <webElementGuid>7a6b6288-c4eb-4fff-acda-ff117e40fc6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,7 +141,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[1]/preceding::td[2]</value>
-      <webElementGuid>0a251acb-65a4-49a2-af8a-5030928473c9</webElementGuid>
+      <webElementGuid>5ff3ee0d-c6f9-4428-a35d-a073dabd1724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -149,7 +149,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DDE-101-0500-2500'])[1]/preceding::td[4]</value>
-      <webElementGuid>929b47a6-933c-4929-a87e-2f5e813a6d23</webElementGuid>
+      <webElementGuid>ff55068c-a7c2-44f6-96ac-57a2e9306244</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -157,7 +157,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//td[3]</value>
-      <webElementGuid>06aff6db-3d82-421b-bcc1-9e720a5da7ee</webElementGuid>
+      <webElementGuid>ebb5fe18-f578-4ae8-be4a-74cbb52d4916</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -165,7 +165,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[@id = '__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone132-cell0' and (text() = '1002612' or . = '1002612')]</value>
-      <webElementGuid>da65e526-f116-44b9-93e7-c94e13d0562c</webElementGuid>
+      <webElementGuid>4306d02d-0c9d-4a2b-8d33-546717405dd3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -173,7 +173,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//td[@id='__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone252-cell0']</value>
-      <webElementGuid>988b9324-f7c8-4913-99bc-0160e308c665</webElementGuid>
+      <webElementGuid>8f72cb93-2f55-45d5-b2d5-549bf3d492b4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -181,7 +181,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//tr[@id='__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone252']/td[3]</value>
-      <webElementGuid>c7372d02-5129-4a64-9d5d-1c13600e73ec</webElementGuid>
+      <webElementGuid>ee24652f-be10-4a22-8846-f3abb3ff976c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -189,7 +189,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Material Description'])[1]/following::td[4]</value>
-      <webElementGuid>b04eda5c-ba5d-4fc2-a313-316ec5e2296c</webElementGuid>
+      <webElementGuid>36268637-c66f-4f9d-8ec7-1bda16e1e037</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -197,7 +197,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Material'])[2]/following::td[4]</value>
-      <webElementGuid>234cff4d-0c6d-4614-950a-3a6a4c2ebc70</webElementGuid>
+      <webElementGuid>e59488e6-361f-4d64-a742-387d2757317d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -205,6 +205,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//td[@id = '__xmlview100--plugincontainer5AXXKL8T---orderSelectionListPlugin--orderListTable-cli-__clone252-cell0' and (text() = '1002612' or . = '1002612')]</value>
-      <webElementGuid>e73885e1-97d9-4e0e-ac38-8ac79a60b229</webElementGuid>
+      <webElementGuid>fb9d3c15-59fe-49df-baf9-404848050154</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>55b5a6d6-436e-4923-9712-5407330b96f8</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#truste-consent-button</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='truste-consent-button']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#truste-consent-button</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>5f674691-27ce-4a2d-9d9e-88c1c131e890</webElementGuid>
+      <webElementGuid>878ad640-279a-4542-b142-ba3204cb70ec</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>truste-consent-button</value>
-      <webElementGuid>348abf6c-2345-4547-b0da-78ffd2cc97a4</webElementGuid>
+      <webElementGuid>b0f6bc06-8f2b-410e-8c03-19885995b29a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>8f26e968-56cc-44f2-9e7d-9a1499bb6a9a</webElementGuid>
+      <webElementGuid>e330fabb-3a1d-4315-ad7b-affae12e2d56</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>class</name>
       <type>Main</type>
       <value>truste-button1</value>
-      <webElementGuid>75f27eea-f3d7-4f89-8649-915b4b86fed8</webElementGuid>
+      <webElementGuid>1dff79a6-efc1-4eae-8c90-895134c96f39</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>I accept all cookies </value>
-      <webElementGuid>d2486006-298a-4066-80eb-c108ae60d0c9</webElementGuid>
+      <webElementGuid>fc9cc52e-cd3f-4021-bf61-1e42a25fedc0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;truste-consent-button&quot;)</value>
-      <webElementGuid>30f96008-4f5b-4efc-81ea-efc18f154f2b</webElementGuid>
+      <webElementGuid>d548abd7-e290-4cae-b8d7-42768b7daf5a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='truste-consent-button']</value>
-      <webElementGuid>809ba0cb-6ce5-4aa3-b52b-b762e9c317e8</webElementGuid>
+      <webElementGuid>759a9478-4b2f-41ff-ac07-0c153f860270</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='truste-consent-buttons']/button</value>
-      <webElementGuid>dae87534-92b3-4af6-b43a-1d8ea56092fa</webElementGuid>
+      <webElementGuid>4b411a2a-8118-43a4-9f3b-8bc9f7829a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cookie Preferences'])[1]/following::button[1]</value>
-      <webElementGuid>161c3cd7-61ba-4e84-ab07-00d30949ed10</webElementGuid>
+      <webElementGuid>db2b61d8-0f3d-43f2-b9ca-7314ffa87d93</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Reject All'])[1]/preceding::button[1]</value>
-      <webElementGuid>66bd87bc-fd88-485f-8df9-c353cd9e8b88</webElementGuid>
+      <webElementGuid>1e9030b2-147d-478b-ac4e-2ac68022d838</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='View and change cookie preferences'])[1]/preceding::button[2]</value>
-      <webElementGuid>0f265c27-9b4b-4368-89b0-0751297121a3</webElementGuid>
+      <webElementGuid>d0275b4e-adcc-4f4d-918c-e2182e2c916c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='I accept all cookies']/parent::*</value>
-      <webElementGuid>56a49167-fc77-43c2-8f6d-2a88c7f67eb0</webElementGuid>
+      <webElementGuid>ecdf17df-93c8-416f-9e47-1d45daa19155</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/button</value>
-      <webElementGuid>9743f100-3725-4066-8b8a-8db6edc15321</webElementGuid>
+      <webElementGuid>c15a3e0a-82fd-45db-a556-7f5963ce02be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@id = 'truste-consent-button' and @type = 'button' and (text() = 'I accept all cookies ' or . = 'I accept all cookies ')]</value>
-      <webElementGuid>0e3f4cb6-9e9d-41c0-b8f6-e2f526636703</webElementGuid>
+      <webElementGuid>ff472469-08a3-4fe5-abaa-e46adf54cc63</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

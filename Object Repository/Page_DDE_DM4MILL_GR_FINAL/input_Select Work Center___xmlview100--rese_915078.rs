@@ -6,12 +6,12 @@
    <elementGuidId>a3696fc4-9163-47d0-a117-799af27ca9a9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e4f6ab2e-d8ee-4f3d-8028-c7c8ac420f83</webElementGuid>
+      <webElementGuid>5bbccb59-2d3c-44ad-8f95-dd9018d3fabb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I</value>
-      <webElementGuid>5384584d-4d68-48fc-8a28-a26db6b0e7fb</webElementGuid>
+      <webElementGuid>188c4b4d-202f-4847-954f-faa5aa3fe05d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>44009ffa-d219-4387-8830-9509612308ac</webElementGuid>
+      <webElementGuid>bd92740b-664e-4a0c-ba55-7bbf4dcc79ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>d0afdb9a-9e00-4a5f-9155-d0aab624d220</webElementGuid>
+      <webElementGuid>03b0c0e4-07d8-44a3-a97f-00adac17760e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>6f9ea056-0d13-4f04-a07a-72415728a535</webElementGuid>
+      <webElementGuid>794d73f3-4705-405f-9857-5ae12ea7f38a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search</value>
-      <webElementGuid>5335d2fd-5b86-4c56-be50-fdc8efde8fd1</webElementGuid>
+      <webElementGuid>f11c3755-fcdb-4a7e-a6e4-bb1fde14d1e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>200</value>
-      <webElementGuid>480fa253-99a4-4235-876d-ac1113c64feb</webElementGuid>
+      <webElementGuid>6cc23141-06a7-4676-8035-64c5bf49c412</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>__text50</value>
-      <webElementGuid>32da0b2e-32a0-4b9a-80a5-6de41d5c73ae</webElementGuid>
+      <webElementGuid>8907fe8a-a7a8-4283-90a4-1ea470a87386</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMSFI</value>
-      <webElementGuid>967f884b-5307-4079-a0d0-0197878a9bfe</webElementGuid>
+      <webElementGuid>2d0e38db-9c5a-4357-a705-8540866bd4c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I&quot;)</value>
-      <webElementGuid>80e6ebaf-31af-4ceb-b4af-7f7dae14cc22</webElementGuid>
+      <webElementGuid>32e695c1-9f23-4361-a575-fae886faf369</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I']</value>
-      <webElementGuid>be4fed4b-06e8-4df2-852f-7f8215e7fbe4</webElementGuid>
+      <webElementGuid>02c2a4c5-3e6f-47d8-bd10-c9ccfbeb9fa3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-F']/input</value>
-      <webElementGuid>9cd701f7-a949-4bd7-a298-bdcf922e03fb</webElementGuid>
+      <webElementGuid>d99aa184-baad-477a-a17a-a02506564936</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5970d7a7-5ead-4086-b789-440f837ec6fc</webElementGuid>
+      <webElementGuid>43adad8d-d072-44bb-bc4c-76b93c658983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,6 +133,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = '__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--searchField-I' and @type = 'search' and @placeholder = 'Search']</value>
-      <webElementGuid>d0e70aa5-7137-43f4-ac38-8ac27928227f</webElementGuid>
+      <webElementGuid>69bbdd6b-c8e7-4689-8c33-28d3105617a3</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

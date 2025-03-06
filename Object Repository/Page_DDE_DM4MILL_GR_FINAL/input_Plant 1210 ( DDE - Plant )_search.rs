@@ -6,12 +6,12 @@
    <elementGuidId>51b2951e-ac2f-4957-89bf-aa52eae08891</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#searchFieldInShell-input-inner</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='searchFieldInShell-input-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#searchFieldInShell-input-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>ba53f9dd-dd2b-42c9-933c-c33aea21a5d4</webElementGuid>
+      <webElementGuid>5227f351-786c-4d1d-adc1-12a532d91b2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>searchFieldInShell-input-inner</value>
-      <webElementGuid>1e89ee39-44dc-4d6d-a62b-565f76ecd2f6</webElementGuid>
+      <webElementGuid>ce1b45d6-9037-4dc6-9f84-c9053c5f070c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Search In: &quot;Apps&quot;</value>
-      <webElementGuid>98723e5a-99c0-4b23-ac8d-388aa2ff6346</webElementGuid>
+      <webElementGuid>3b4cb5fc-5325-441a-9798-ce9cf6695947</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>aria-describedby</name>
       <type>Main</type>
       <value>searchFieldInShell-input-No-Results-Description</value>
-      <webElementGuid>35314edd-bd5f-4f81-a285-c14d25621a09</webElementGuid>
+      <webElementGuid>08705e2a-9edf-4686-b7a1-59898d2b71f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>aria-haspopup</name>
       <type>Main</type>
       <value>listbox</value>
-      <webElementGuid>40c66299-3788-4a20-9422-160090db111d</webElementGuid>
+      <webElementGuid>2586226a-d2df-4f33-bd1f-e108b3ac1f4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>type</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>480cc5ff-7397-4e6f-811a-eb5b7b03ce25</webElementGuid>
+      <webElementGuid>4bc5a35c-eab8-4c5e-9a51-4ceac5ce19ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f8f7d470-8573-4bbd-b82c-ad8125551d18</webElementGuid>
+      <webElementGuid>aaa1c8e2-d83a-4928-9ff9-63d4d0f61cbe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMInputBaseInner</value>
-      <webElementGuid>43fb912d-1bb2-48af-b46c-f963d52dd8f2</webElementGuid>
+      <webElementGuid>324a89f4-ba89-429f-bf34-90f733cc83ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>autocorrect</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>1b56c32e-83d0-426e-a999-079837998fc7</webElementGuid>
+      <webElementGuid>93e67314-c0f4-4dcf-93df-b97ba9db25e2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>name</name>
       <type>Main</type>
       <value>search</value>
-      <webElementGuid>6ad81c5d-8c1f-4c91-8d16-2150ea28c6a2</webElementGuid>
+      <webElementGuid>65845585-4568-42a5-8e0b-58978f4ef8fd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;searchFieldInShell-input-inner&quot;)</value>
-      <webElementGuid>f98f1fc1-89f4-4a56-bf41-a34b3df5a12a</webElementGuid>
+      <webElementGuid>acd88b4f-c051-4176-aa86-658cd91b695d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='searchFieldInShell-input-inner']</value>
-      <webElementGuid>728d43c6-9098-4a1b-9f32-cc382c6a9e28</webElementGuid>
+      <webElementGuid>9cb219de-e825-45a3-9eeb-ff55800f0a13</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='searchFieldInShell-input-content']/input</value>
-      <webElementGuid>1e752ec8-7907-4254-87b9-71bbed91aaa9</webElementGuid>
+      <webElementGuid>a0227e10-f5b5-4756-bee6-1069b2423ab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>ad0dc379-ab9d-48e5-b852-918ca091ffa7</webElementGuid>
+      <webElementGuid>ba4f4d6e-a4a3-4b85-9830-7187dbf94240</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'searchFieldInShell-input-inner' and @placeholder = 'Search In: &quot;Apps&quot;' and @type = 'search' and @name = 'search']</value>
-      <webElementGuid>c5b45aaf-98d8-49e7-8f96-9e37b063bf89</webElementGuid>
+      <webElementGuid>b6ea03f2-b6e6-4eb4-b0c7-04fc5a6389a8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

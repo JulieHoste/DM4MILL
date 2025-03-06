@@ -6,12 +6,12 @@
    <elementGuidId>6a64e78b-48db-4c1d-8aca-6a8356cf48f5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>4357e69e-2d86-49bb-9751-1a3652051545</webElementGuid>
+      <webElementGuid>d3a169e1-cb81-4c84-b330-5ee3f30ac541</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner</value>
-      <webElementGuid>0186a059-d6b6-4d7f-ab59-3f42ae73e01e</webElementGuid>
+      <webElementGuid>d2ecc262-17e0-435f-9cb7-8da00600eb75</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>GR Qty</value>
-      <webElementGuid>c138e4f7-e10f-4591-8f3f-199babfefaf6</webElementGuid>
+      <webElementGuid>57ac9bba-3864-4d65-9d50-5e924578198f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>7565f8af-5f92-4d7b-850b-30965b40b0fc</webElementGuid>
+      <webElementGuid>7bfb3892-f4fe-41bf-b71d-bdd6d7ff92e7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>a159870c-372d-4a7d-8f4e-3e873507eabb</webElementGuid>
+      <webElementGuid>3b5220cf-c684-43ac-85e1-38c73d715f7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>21c5b601-18cc-426a-8638-8895fc5641b3</webElementGuid>
+      <webElementGuid>52a76505-aa79-4e71-afaa-51cf0fc98bc7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMInputBaseInner</value>
-      <webElementGuid>69c0d87c-1d8e-4b04-a19c-9184f256b856</webElementGuid>
+      <webElementGuid>1e126b64-06c7-4a8c-bfdb-ce7aee583629</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner&quot;)</value>
-      <webElementGuid>a1b21ad5-9fd5-40f2-9eea-9a865191ae5f</webElementGuid>
+      <webElementGuid>4ce9a93f-cd84-4818-88b0-8230f6c09d87</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner']</value>
-      <webElementGuid>342b4d26-946b-4710-93bc-fb43a2e545a4</webElementGuid>
+      <webElementGuid>dad452da-a4b9-467d-8f14-3bfaad8f5875</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-content']/input</value>
-      <webElementGuid>7eb6436b-4613-4472-93e3-0941c6e5bf94</webElementGuid>
+      <webElementGuid>d2e1f116-d232-42e3-a98e-55e9638812d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[4]/div/div/input</value>
-      <webElementGuid>62e6f8c8-1a3d-494a-8fcb-7b9b1f1d483e</webElementGuid>
+      <webElementGuid>ef727692-7ccf-4019-91c7-5d80e23102c2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner' and @placeholder = 'GR Qty' and @type = 'text']</value>
-      <webElementGuid>eed3cb92-46fc-4316-a2e4-d581cc4a6b4c</webElementGuid>
+      <webElementGuid>88ca94c9-3c92-4059-9407-857ef3dae9d5</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

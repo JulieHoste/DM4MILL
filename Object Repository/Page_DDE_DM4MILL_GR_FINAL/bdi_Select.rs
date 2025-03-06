@@ -6,12 +6,12 @@
    <elementGuidId>22ad4485-b26d-40fe-97ef-bfe907406b93</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//bdi[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>bdi</value>
-      <webElementGuid>a6b81d85-3118-4fa2-ac41-5ee95a63cdbe</webElementGuid>
+      <webElementGuid>2857d934-77d3-4ff6-a645-c5f3f40f48b3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content</value>
-      <webElementGuid>1d57bdda-359b-4c13-9aab-2f273c7374da</webElementGuid>
+      <webElementGuid>9b7a4b9c-cbfd-4dc8-a31d-7ab8a2322f32</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>aria-live</name>
       <type>Main</type>
       <value>polite</value>
-      <webElementGuid>713d7aa6-c83e-4d5e-a2e3-9e9d47fb33f3</webElementGuid>
+      <webElementGuid>695f7bec-4408-4bfc-8c6c-63caa4cfd669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Select</value>
-      <webElementGuid>19ec18fc-2e90-4530-9056-5c232fbc058a</webElementGuid>
+      <webElementGuid>a4f4db93-db7d-4f78-ae05-ee327bfd791b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content&quot;)</value>
-      <webElementGuid>6e56f83e-ef6e-482b-a23c-a858869a5374</webElementGuid>
+      <webElementGuid>dedf10f1-1a6c-41cc-bf87-910c3ced3cbb</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//bdi[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content']</value>
-      <webElementGuid>a9c4ecb9-ff86-4586-88a0-b53f0eb8beec</webElementGuid>
+      <webElementGuid>5946d203-be5b-423a-a8d4-8a4ced9da63f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//span[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-content']/bdi</value>
-      <webElementGuid>cf1804ac-fd8f-47bb-b40c-c18b4931af44</webElementGuid>
+      <webElementGuid>c0014abe-e750-4786-982a-68bff53227cd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[1]/following::bdi[1]</value>
-      <webElementGuid>f5c8caaa-ea77-4f95-a8f6-191bef0c6b6f</webElementGuid>
+      <webElementGuid>3dad75bb-9eab-48a8-a8d4-6f9c7c8dbab6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='None'])[4]/following::bdi[1]</value>
-      <webElementGuid>82277e5c-3bf9-4839-a8fb-3455c31b7081</webElementGuid>
+      <webElementGuid>cc21e416-165f-4bcf-8f06-a32ff7a36a81</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Select'])[2]/preceding::bdi[1]</value>
-      <webElementGuid>8a007f7c-a042-4a20-9fac-20559ecd3bd0</webElementGuid>
+      <webElementGuid>647c67ac-3adc-422b-8ed8-34b7e2410da2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::bdi[1]</value>
-      <webElementGuid>4c0c08f8-0f60-46cb-84fe-4f272df263c8</webElementGuid>
+      <webElementGuid>6766a4e5-1371-48fe-885e-4edb094d223c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Select']/parent::*</value>
-      <webElementGuid>2045d49c-0e64-46c8-8d28-d7d93f88fe57</webElementGuid>
+      <webElementGuid>a11b46fd-2309-4fca-b76d-483f8cc1f562</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +125,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//footer/div/button/span/span/bdi</value>
-      <webElementGuid>c43fe09c-1865-427d-8361-364b1d6be380</webElementGuid>
+      <webElementGuid>42c459fd-a10e-467e-97d7-ff137e34c709</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +133,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//bdi[@id = '__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--workCenterBrowse--selectButton-BDI-content' and (text() = 'Select' or . = 'Select')]</value>
-      <webElementGuid>b68874d5-31b3-42de-a05a-00bec3627923</webElementGuid>
+      <webElementGuid>e4c59881-684e-4a8b-a89b-640c6af0cd6b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +141,6 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Load more items.'])[1]/following::bdi[1]</value>
-      <webElementGuid>b7d76897-d4fb-4383-b460-a4cc74fbedbe</webElementGuid>
+      <webElementGuid>d36fb72b-0200-4c21-8d67-b6ec6458bda7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

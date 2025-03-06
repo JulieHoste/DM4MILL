@@ -6,12 +6,12 @@
    <elementGuidId>b9eb0864-bada-4f47-954f-27eb82f8bc7f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//span[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>eb0e84ea-6c19-4839-b049-ec00b213448f</webElementGuid>
+      <webElementGuid>2ad7ffb3-9826-4bfd-a8fd-a4fa65167ae2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner</value>
-      <webElementGuid>d68d5344-a064-409d-b191-a50b1e8e191f</webElementGuid>
+      <webElementGuid>e0a54911-6280-4a83-a739-496edb7956e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnEmphasized</value>
-      <webElementGuid>24526e0c-9791-4c09-b0b3-e21088827d05</webElementGuid>
+      <webElementGuid>77f1caf3-7272-45c5-8122-14106072e31e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Go</value>
-      <webElementGuid>9ccd893d-2a26-4211-ace1-430a1db16ae1</webElementGuid>
+      <webElementGuid>d181856b-2d68-4153-97c1-d0a192196967</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner&quot;)</value>
-      <webElementGuid>2e362da3-7e89-4823-8aaa-2fdc88d725e0</webElementGuid>
+      <webElementGuid>b404ceca-6750-43b8-886f-ab61b3d9a81d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner']</value>
-      <webElementGuid>b1d15a50-5770-4cbc-a1ad-fb76f0b468e7</webElementGuid>
+      <webElementGuid>67a3ea4d-7d7f-404f-94aa-8df959a98b12</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo']/span</value>
-      <webElementGuid>62712c34-b283-48a7-8737-82cd8b44c9ae</webElementGuid>
+      <webElementGuid>e266dc97-69e8-44c3-9906-77c33899f8b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Planned Start Date Range'])[1]/following::span[3]</value>
-      <webElementGuid>7e0117b6-2fef-4901-b60a-d3093e31c113</webElementGuid>
+      <webElementGuid>40cda0cc-f87f-4e38-adc6-358257784da0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SFC Status'])[1]/following::span[9]</value>
-      <webElementGuid>18b4c7c6-f16c-4656-9b87-cf6425ae9371</webElementGuid>
+      <webElementGuid>e02401bf-9a17-441b-825c-fefbe5cfb8cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear'])[1]/preceding::span[2]</value>
-      <webElementGuid>bce70f24-4b20-458c-8cd7-4337d582e7d8</webElementGuid>
+      <webElementGuid>1ca50787-30ce-48e5-9da1-24483d537db3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[14]/button/span</value>
-      <webElementGuid>010a5f66-100c-4ca0-9f05-65ae7b281bcc</webElementGuid>
+      <webElementGuid>bfa3bdaa-3f13-40b9-93da-c45c4d676736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = '__xmlview100--reservedComponentContainer---orderPodSelectionPlugin--filterBar-btnGo-inner' and (text() = 'Go' or . = 'Go')]</value>
-      <webElementGuid>282b3738-9622-405c-9e39-dea0c36bea7d</webElementGuid>
+      <webElementGuid>afafbccb-7cf1-4c9c-91d9-7cb521b97ba4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
