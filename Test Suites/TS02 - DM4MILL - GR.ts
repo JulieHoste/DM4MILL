@@ -17,5 +17,29 @@
       <isRun>true</isRun>
       <testCaseId>Test Cases/DM4MILL - Goods Receipts</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e9787488-641f-4226-90f2-dc7b5f32d649</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>f2c59cae-ee46-4a13-87b7-e2028f8556c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>3da01a0e-42ed-46d9-a83f-d8b366bcc8d3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e7548b2d-3dcc-4369-a601-6a81ca82348d</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

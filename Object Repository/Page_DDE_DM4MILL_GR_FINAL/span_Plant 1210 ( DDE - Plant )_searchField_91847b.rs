@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>span_DM4Mill GR</name>
+   <name>span_Plant 1210 ( DDE - Plant )_searchField_91847b</name>
    <tag></tag>
-   <elementGuidId>f1cd9d4e-c79a-42fc-8f14-e22b3ada961f</elementGuidId>
+   <elementGuidId>0ea59451-5b86-4069-b30d-a9cba0b2bf3e</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//span[@id='__tile142-title-inner']</value>
+         <value>//button/span</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#__tile142-title-inner</value>
+         <value>#searchFieldInShell-button-inner</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:label=&quot;DM4Mill GR \nGood Receipts \n\nGR\nTile&quot;i</value>
+         <value>internal:label=&quot;Focus Search&quot;i</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,110 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>e82bdcc3-942b-48c9-9ab2-98081e8ea4bb</webElementGuid>
+      <webElementGuid>cf269341-5509-4b14-92c6-39bdf21c8dc8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>__tile142-title-inner</value>
-      <webElementGuid>e2f31df4-bf76-4937-a15b-054c40f07d91</webElementGuid>
+      <value>searchFieldInShell-button-inner</value>
+      <webElementGuid>28d87a49-c3a4-45af-915a-087f2ed8ea3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>sapMTextMaxLine sapMTextLineClamp</value>
-      <webElementGuid>6c6b6d02-4236-4649-91c9-854b92455470</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>text</name>
-      <type>Main</type>
-      <value>DM4Mill GR </value>
-      <webElementGuid>64ecf0c3-6c37-49fe-b7fc-84a71516ebbf</webElementGuid>
+      <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnIconFirst sapMBtnDefault</value>
+      <webElementGuid>e84cc91a-2179-422c-8e55-a0bd2f49a20a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;__tile142-title-inner&quot;)</value>
-      <webElementGuid>c3ebfbe9-aaa3-4e75-b24e-065afaf4d6fe</webElementGuid>
+      <value>id(&quot;searchFieldInShell-button-inner&quot;)</value>
+      <webElementGuid>7d6d6863-c3d3-4c10-97f3-ec87f1c85000</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//span[@id='__tile142-title-inner']</value>
-      <webElementGuid>c41d75fd-66aa-43da-b3a4-f1dde015bebf</webElementGuid>
+      <value>//span[@id='searchFieldInShell-button-inner']</value>
+      <webElementGuid>736fc5d1-2e30-43c6-aace-28c821ee6ed1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//span[@id='__tile142-title']/span</value>
-      <webElementGuid>ad3c8448-854e-4a5c-89d4-c3db47cbb3bd</webElementGuid>
+      <value>//button[@id='searchFieldInShell-button']/span</value>
+      <webElementGuid>2e657773-3c6f-4625-a455-aa0ee9043831</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Com­po­nent Con­sump­tion Rec­on­cil­i­a­tion'])[1]/following::span[3]</value>
-      <webElementGuid>2d895dd4-b357-4549-9766-508e80efdaf0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Plant: 1210 ( DDE - Plant )'])[1]/following::span[3]</value>
+      <webElementGuid>d321e9cd-9dc9-4901-9da5-320d48e2fbbd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Per­form Visual Inspec­tions'])[1]/following::span[7]</value>
-      <webElementGuid>4a49c32e-ae75-4001-b1b2-b6805528d3e2</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='DDE_DM4MILL_GR_FINAL'])[3]/following::span[6]</value>
+      <webElementGuid>83456b33-df84-4e5f-9336-5f1cd285ea99</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Good Receipts'])[1]/preceding::span[1]</value>
-      <webElementGuid>0a43a55a-1d3d-4007-b030-8668e72b60ed</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Focus Search'])[1]/preceding::span[2]</value>
+      <webElementGuid>c777db8d-c29f-4014-85d9-a3a0ea037828</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='GR'])[1]/preceding::span[3]</value>
-      <webElementGuid>75c89b5d-706e-4548-b976-9ff433f55753</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='DM4Mill GR']/parent::*</value>
-      <webElementGuid>9d437008-dd04-4f53-b712-1d0ca05141c1</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/preceding::span[5]</value>
+      <webElementGuid>9cfd4e24-5a78-46e0-aa6e-8538c6b8e621</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//li[31]/div/div/div/div/div/a/div/div/span/span</value>
-      <webElementGuid>c2fe2cf3-1cbd-4f4b-9b8c-62f32165a6a6</webElementGuid>
+      <value>//button/span</value>
+      <webElementGuid>eab609b3-8057-456c-afb1-210cd4775135</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//span[@id = '__tile142-title-inner' and (text() = 'DM4Mill GR ' or . = 'DM4Mill GR ')]</value>
-      <webElementGuid>c61ac6d8-3b6d-4662-afd2-4a34a6a08832</webElementGuid>
+      <value>//span[@id = 'searchFieldInShell-button-inner']</value>
+      <webElementGuid>551bd0d5-3fa1-4880-99d6-46332ef6b636</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

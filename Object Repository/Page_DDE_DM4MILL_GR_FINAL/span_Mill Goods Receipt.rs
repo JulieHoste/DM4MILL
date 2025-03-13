@@ -6,12 +6,12 @@
    <elementGuidId>b6174c04-388d-4e1c-9b6a-722531127410</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#DETAILSView--icontabfilterCSGXHZB1-text > span.sapMITHTextContent</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1-text']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#DETAILSView--icontabfilterCSGXHZB1-text > span.sapMITHTextContent</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1a6e7175-db95-4d10-ba33-36f2b301ea44</webElementGuid>
+      <webElementGuid>b01b7f3f-43c7-4104-a5e3-b712cdb78c8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>dir</name>
       <type>Main</type>
       <value>auto</value>
-      <webElementGuid>298af6a0-162a-4439-a9ba-dc15be264d05</webElementGuid>
+      <webElementGuid>ec3d092c-1851-402a-b6fd-800c09c0c22e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMITHTextContent</value>
-      <webElementGuid>5057d564-2422-4e9f-86e2-1abd20bd4574</webElementGuid>
+      <webElementGuid>0e5999f1-9059-4e7a-80e1-979c89e5f24a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Mill Goods Receipt</value>
-      <webElementGuid>e6772318-6bc4-4f13-8f72-2134afba39ad</webElementGuid>
+      <webElementGuid>edf18277-fb7e-44f4-8318-2f0e7f2fbda2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DETAILSView--icontabfilterCSGXHZB1-text&quot;)/span[@class=&quot;sapMITHTextContent&quot;]</value>
-      <webElementGuid>cff850ad-c5c0-4a2a-a71b-b6fa982c49c2</webElementGuid>
+      <webElementGuid>e003149f-2747-4a2d-8a4b-9823a39624f8</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1-text']/span</value>
-      <webElementGuid>0e9af46e-147a-4f91-a82f-c72ec69ebdf3</webElementGuid>
+      <webElementGuid>64eb3c05-a640-4400-b47e-a588e9ea31b7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation Details'])[1]/following::span[2]</value>
-      <webElementGuid>339a4a0d-8759-4fe3-8d36-8eb9a808c4e7</webElementGuid>
+      <webElementGuid>345f7e0a-2a67-4f90-b602-a36030a66fbf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Positive'])[1]/following::span[5]</value>
-      <webElementGuid>83f8eeca-6e1a-4a73-aacd-8ae9eda1bdae</webElementGuid>
+      <webElementGuid>d8022471-f87a-4925-88e7-2037296738d5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='More'])[2]/preceding::span[3]</value>
-      <webElementGuid>1634eef1-f91c-4fb1-887d-caf92f5038eb</webElementGuid>
+      <webElementGuid>8dd804e7-facb-4e05-8340-6289e33740cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Operation ID'])[2]/preceding::span[11]</value>
-      <webElementGuid>6f5aa0b0-3434-4380-a116-a1b0dc2478f3</webElementGuid>
+      <webElementGuid>3d728b1d-defa-46e3-a8ff-647156c45df0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Mill Goods Receipt']/parent::*</value>
-      <webElementGuid>23a207f6-b026-4e64-8717-1ff88fcfe6ee</webElementGuid>
+      <webElementGuid>09382daf-3508-4e81-8ae3-2130a74c9320</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div[2]/div/span</value>
-      <webElementGuid>bbd3a2fd-9e9b-477a-90cc-7d0917f1826b</webElementGuid>
+      <webElementGuid>f83f73ff-3b25-49f1-a34b-a62e0e78f016</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Mill Goods Receipt' or . = 'Mill Goods Receipt')]</value>
-      <webElementGuid>639a328d-77ee-40c0-aec2-2f8682dfdf3a</webElementGuid>
+      <webElementGuid>487545fe-4041-42a8-a0d7-7aba7c3a4c58</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

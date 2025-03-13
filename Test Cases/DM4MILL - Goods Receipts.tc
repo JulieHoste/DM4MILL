@@ -6,4 +6,56 @@
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>7c25254f-ff52-410e-83fc-9e2944381843</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e9787488-641f-4226-90f2-dc7b5f32d649</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>f2c59cae-ee46-4a13-87b7-e2028f8556c0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>3da01a0e-42ed-46d9-a83f-d8b366bcc8d3</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e7548b2d-3dcc-4369-a601-6a81ca82348d</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'julie.hoste@delaware.pro'</defaultValue>
+      <description></description>
+      <id>e9787488-641f-4226-90f2-dc7b5f32d649</id>
+      <masked>false</masked>
+      <name>username</name>
+   </variable>
+   <variable>
+      <defaultValue>'cpQSwhp1!0109'</defaultValue>
+      <description></description>
+      <id>f2c59cae-ee46-4a13-87b7-e2028f8556c0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+   <variable>
+      <defaultValue>'1003344'</defaultValue>
+      <description></description>
+      <id>3da01a0e-42ed-46d9-a83f-d8b366bcc8d3</id>
+      <masked>false</masked>
+      <name>orderId</name>
+   </variable>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>e7548b2d-3dcc-4369-a601-6a81ca82348d</id>
+      <masked>false</masked>
+      <name>quantity</name>
+   </variable>
 </TestCaseEntity>

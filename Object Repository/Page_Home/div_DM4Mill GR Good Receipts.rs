@@ -6,12 +6,12 @@
    <elementGuidId>9e07f17f-e8da-44c1-85cf-7fcace582228</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#__tile142 > div.sapMGTHdrContent.OneByOne</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//a[@id='__tile142']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#__tile142 > div.sapMGTHdrContent.OneByOne</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>70750866-fd07-4458-aeb7-e0e6816d0366</webElementGuid>
+      <webElementGuid>4822de16-6b5f-44aa-a8a7-ec00b4a93b7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMGTHdrContent OneByOne</value>
-      <webElementGuid>f5ad32b7-eecb-4134-aaad-67ac2bf6cdc2</webElementGuid>
+      <webElementGuid>13962a96-27d3-4c30-85fc-43f4452762d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>DM4Mill GR Good Receipts </value>
-      <webElementGuid>05fe7a1a-f2fd-454c-9288-e822f85c86df</webElementGuid>
+      <webElementGuid>f60444b8-5b61-4b8b-946c-b029c1a0a14c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;__tile142&quot;)/div[@class=&quot;sapMGTHdrContent OneByOne&quot;]</value>
-      <webElementGuid>de5a85e5-7db9-486c-b296-231bfee4ab3f</webElementGuid>
+      <webElementGuid>a4c025b7-9fd6-4c49-b2f5-ba9d2ddd8c41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//a[@id='__tile142']/div</value>
-      <webElementGuid>089587a0-d06f-4eb9-bcab-bf31c389065a</webElementGuid>
+      <webElementGuid>5c14e9b6-f99b-4ea5-ba22-aa50389ae0f2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Com­po­nent Con­sump­tion Rec­on­cil­i­a­tion'])[1]/following::div[13]</value>
-      <webElementGuid>a5f1e7db-e7fd-4116-8443-2285bc362b62</webElementGuid>
+      <webElementGuid>8297ade8-91f8-4e13-b0b9-0bb9cbd3e7b3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Per­form Visual Inspec­tions'])[1]/following::div[27]</value>
-      <webElementGuid>6fe487be-fd61-4931-90b1-26e3419a0c5d</webElementGuid>
+      <webElementGuid>0356d458-950c-422b-a87e-ccf7de30fafe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[31]/div/div/div/div/div/a/div</value>
-      <webElementGuid>e9fd0721-eb0d-446f-9ccc-47e5847a9e49</webElementGuid>
+      <webElementGuid>3d7590fb-fc5f-4cb5-96a8-24c3735b6b71</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'DM4Mill GR Good Receipts ' or . = 'DM4Mill GR Good Receipts ')]</value>
-      <webElementGuid>498b0e22-6e18-466f-8b1e-4c9ee3498312</webElementGuid>
+      <webElementGuid>62824a21-53cb-430d-8bb7-6db84e7d9019</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

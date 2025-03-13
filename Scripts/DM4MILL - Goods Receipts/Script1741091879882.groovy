@@ -30,7 +30,7 @@ WebUI.maximizeWindow()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/a_Default Identity Provider'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Email or User Name_j_username'), 'julie.hoste@delaware.pro')
+WebUI.setText(findTestObject('Object Repository/Page_Sign In/input_Email or User Name_j_username'), username)
 
 WebUI.delay(2)
 
@@ -56,7 +56,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_Home/div_DM4Mill GR
 
 WebUI.click(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'), 3)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'), 30)
 
 WebUI.delay(4)
 
@@ -74,7 +74,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.delay(2)
 
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78'), 
-    '1003344')
+    orderId)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go'))
 
@@ -88,13 +88,12 @@ WebUI.clearText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/inpu
     FailureHandling.STOP_ON_FAILURE)
 
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'), 
-    '1')
+    quantity)
 
 WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Post GR'))
 
-WebUI.delay(3)
-
-WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_'))
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Plant 1210 ( DDE - Plant )_searchField_91847b'), 
+    30)
 
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search'), 'Integration Message Dashboard')
 
