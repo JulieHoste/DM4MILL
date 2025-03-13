@@ -1,0 +1,19 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS02 - DM4MILL - GR,Chrome 134.0.6998.88,,,13-03-2025 11:00:47,13-03-2025 11:03:38,"2m - 50,664s",FAILED
+,,,,,,,
+Test Cases/DM4MILL - Goods Receipts,Chrome 134.0.6998.88,,DM4MILL - GR,13-03-2025 11:03:21,13-03-2025 11:03:38,"17,247s",FAILED
+"DATA BINDING - {""(Default) usern..."":""julie.hoste@delaware.pro"",""(Default) quant..."":""1"",""(Default) passw..."":""cpQSwhp1!0109"",""(Default) order..."":""1003344""}",,,,,,,
+"openBrowser(""https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home"")",Chrome 134.0.6998.88,,,13-03-2025 11:03:21,13-03-2025 11:03:24,"3,046s",PASSED
+maximizeWindow(),Chrome 134.0.6998.88,,,13-03-2025 11:03:24,13-03-2025 11:03:24,"0,083s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_Login/a_Default Identity Provider""))",Chrome 134.0.6998.88,,,13-03-2025 11:03:24,13-03-2025 11:03:25,"0,939s",PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Email or User Name_j_username""), username)",Chrome 134.0.6998.88,,,13-03-2025 11:03:25,13-03-2025 11:03:26,"0,708s",PASSED
+delay(2),Chrome 134.0.6998.88,,,13-03-2025 11:03:26,13-03-2025 11:03:28,"2,027s",PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Continue""))",Chrome 134.0.6998.88,,,13-03-2025 11:03:28,13-03-2025 11:03:28,"0,532s",PASSED
+delay(2),Chrome 134.0.6998.88,,,13-03-2025 11:03:28,13-03-2025 11:03:30,"2,038s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_SAP Universal ID/button_I accept all cookies""))",Chrome 134.0.6998.88,,,13-03-2025 11:03:30,13-03-2025 11:03:31,"1,087s",PASSED
+delay(2),Chrome 134.0.6998.88,,,13-03-2025 11:03:31,13-03-2025 11:03:33,"2,037s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SAP Universal ID/input_pro_password""), ""UB7+rfb8H+So++oIaShgEQ=="")",Chrome 134.0.6998.88,,,13-03-2025 11:03:33,13-03-2025 11:03:34,"0,873s",PASSED
+"click(findTestObject(""Object Repository/Page_SAP Universal ID/button_Sign in_1""))",Chrome 134.0.6998.88,,,13-03-2025 11:03:34,13-03-2025 11:03:34,"0,026s",NOT_RUN
+"setEncryptedText(findTestObject(""Object Repository/Page_SAP Universal ID/input_pro_password""), ""UB7+rfb8H+So++oIaShgEQ=="")",Chrome 134.0.6998.88,,,13-03-2025 11:03:34,13-03-2025 11:03:34,"0,021s",NOT_RUN
+"click(findTestObject(""Object Repository/Page_SAP Universal ID/button_Sign in_1""))",Chrome 134.0.6998.88,,,13-03-2025 11:03:34,13-03-2025 11:03:36,"1,761s",FAILED
+Video,Chrome 134.0.6998.88,,,13-03-2025 11:03:38,13-03-2025 11:03:38,"0,003s",PASSED
