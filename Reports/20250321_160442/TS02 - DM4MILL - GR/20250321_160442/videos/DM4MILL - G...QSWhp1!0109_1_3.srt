@@ -1,0 +1,16 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. maximizeWindow()
+
+3
+00:00:00,000 --> 00:00:00,000
+9. enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), username)
+

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TS02 - DM4MILL - GR" time="41.789" tests="1" failures="0" errors="1">
+   <testsuite name="TS02 - DM4MILL - GR" tests="1" failures="0" errors="1" time="41.789" skipped="0" timestamp="21-03-2025T16:20:20" hostname="hostej - DCI5CG4401B3V.gsinet.be" id="Test Suites/TS02 - DM4MILL - GR">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_162013\\TS02 - DM4MILL - GR\\20250321_162014"/>
+         <property name="logFiles" value="C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_162013\\TS02 - DM4MILL - GR\\20250321_162014\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hostej - DCI5CG4401B3V.gsinet.be"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.0.223"/>
+         <property name="browser" value="Chrome 134.0.6998.118"/>
+         <property name="hostAddress" value="172.17.76.219"/>
+         <property name="sessionId" value="3ff3a496e19fcc83ff740b0a6397e936"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/DM4MILL - Goods Receipts" time="41.465" classname="Test Cases/DM4MILL - Goods Receipts" status="ERROR">
+         <properties>
+            <property name="data_binding"><![CDATA[{"password":"cpQSWhp1!0109","quantity":"1","orderId":"1003344","username":"julie.hoste@delaware.pro"}]]></property>
+         </properties>
+         <error type="ERROR" message="Test Cases/DM4MILL - Goods Receipts FAILED.&#xa;Reason:&#xa;groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882&#xa;	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)&#xa;	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)&#xa;	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)&#xa;	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)&#xa;	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)&#xa;	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)&#xa;	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)&#xa;	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)&#xa;	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)&#xa;	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)&#xa;"/>
+         <system-out><![CDATA[21-03-2025T16:20:20 - [TEST_CASE][ERROR] - Test Cases/DM4MILL - Goods Receipts: Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+21-03-2025T16:20:20 - [TEST_STEP][PASSED] - openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home"): Browser is opened with url: 'https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home'
+
+21-03-2025T16:20:21 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+21-03-2025T16:20:21 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+21-03-2025T16:20:23 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+21-03-2025T16:20:24 - [MESSAGE][PASSED] - Browser is opened with url: 'https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home'
+
+21-03-2025T16:20:24 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+21-03-2025T16:20:24 - [MESSAGE][PASSED] - Current window maximized
+
+21-03-2025T16:20:24 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider")): Object: 'Object Repository/Page_Login/a_Default Identity Provider' is clicked on
+
+21-03-2025T16:20:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/a_Default Identity Provider' is clicked on
+
+21-03-2025T16:20:25 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), username): Text 'julie.hoste@delaware.pro' is set on object 'Object Repository/Page_Sign In/input_Email or User Name_j_username'
+
+21-03-2025T16:20:26 - [MESSAGE][PASSED] - Text 'julie.hoste@delaware.pro' is set on object 'Object Repository/Page_Sign In/input_Email or User Name_j_username'
+
+21-03-2025T16:20:26 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-03-2025T16:20:28 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-03-2025T16:20:28 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Continue")): Object: 'Object Repository/Page_Sign In/button_Continue' is clicked on
+
+21-03-2025T16:20:29 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Continue' is clicked on
+
+21-03-2025T16:20:29 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-03-2025T16:20:31 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-03-2025T16:20:31 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_SAP Universal ID/button_I accept all cookies")): Object: 'Object Repository/Page_SAP Universal ID/button_I accept all cookies' is clicked on
+
+21-03-2025T16:20:31 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SAP Universal ID/button_I accept all cookies' is clicked on
+
+21-03-2025T16:20:31 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-03-2025T16:20:33 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-03-2025T16:20:33 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ=="): Text ****** has been set on object 'Object Repository/Page_SAP Universal ID/input_pro_password'
+
+21-03-2025T16:20:34 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_SAP Universal ID/input_pro_password'
+
+21-03-2025T16:20:34 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1")): Object: 'Object Repository/Page_SAP Universal ID/button_Sign in_1' is clicked on
+
+21-03-2025T16:20:34 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SAP Universal ID/button_Sign in_1' is clicked on
+
+21-03-2025T16:20:34 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+21-03-2025T16:20:38 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+21-03-2025T16:20:38 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Home/div_DM4Mill GR Good Receipts"), 0): Scroll to object 'Object Repository/Page_Home/div_DM4Mill GR Good Receipts' successfully
+
+21-03-2025T16:20:38 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+21-03-2025T16:20:46 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Home/div_DM4Mill GR Good Receipts' successfully
+
+21-03-2025T16:20:46 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home/span_DM4Mill GR")): Object: 'Object Repository/Page_Home/span_DM4Mill GR' is clicked on
+
+21-03-2025T16:20:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home/span_DM4Mill GR' is clicked on
+
+21-03-2025T16:20:47 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Home/span_DM4Mill GR"), 30): Object 'Object Repository/Page_Home/span_DM4Mill GR' is present
+
+21-03-2025T16:20:50 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Home/span_DM4Mill GR' is present
+
+21-03-2025T16:20:50 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+21-03-2025T16:20:54 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+21-03-2025T16:20:54 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc' is clicked on
+
+21-03-2025T16:20:56 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc' is clicked on
+
+21-03-2025T16:20:56 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078"), "43"): Text '43' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'
+
+21-03-2025T16:20:57 - [MESSAGE][PASSED] - Text '43' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'
+
+21-03-2025T16:20:57 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+21-03-2025T16:20:58 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+21-03-2025T16:20:58 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f' is clicked on
+
+21-03-2025T16:20:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f' is clicked on
+
+21-03-2025T16:20:59 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select' is clicked on
+
+21-03-2025T16:20:59 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select' is clicked on
+
+21-03-2025T16:20:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+21-03-2025T16:21:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+21-03-2025T16:21:02 - [TEST_STEP][ERROR] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78"), orderI): Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+
+
+21-03-2025T16:21:02 - [MESSAGE][ERROR] - Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+         <system-err><![CDATA[21-03-2025T16:20:20 - [TEST_CASE][ERROR] - Test Cases/DM4MILL - Goods Receipts: Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+      </testcase>
+      <system-out><![CDATA[21-03-2025T16:20:20 - [TEST_SUITE][ERROR] - TS02 - DM4MILL - GR: Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-out>
+      <system-err><![CDATA[21-03-2025T16:20:20 - [TEST_SUITE][ERROR] - TS02 - DM4MILL - GR: Test Cases/DM4MILL - Goods Receipts FAILED.
+Reason:
+groovy.lang.MissingPropertyException: No such property: orderI for class: Script1741091879882
+	at DM4MILL - Goods Receipts.run(DM4MILL - Goods Receipts:80)
+	at com.kms.katalon.core.main.ScriptEngine.run(ScriptEngine.java:194)
+	at com.kms.katalon.core.main.ScriptEngine.runScriptAsRawText(ScriptEngine.java:119)
+	at com.kms.katalon.core.main.TestCaseExecutor.runScript(TestCaseExecutor.java:448)
+	at com.kms.katalon.core.main.TestCaseExecutor.doExecute(TestCaseExecutor.java:439)
+	at com.kms.katalon.core.main.TestCaseExecutor.processExecutionPhase(TestCaseExecutor.java:418)
+	at com.kms.katalon.core.main.TestCaseExecutor.accessMainPhase(TestCaseExecutor.java:410)
+	at com.kms.katalon.core.main.TestCaseExecutor.execute(TestCaseExecutor.java:285)
+	at com.kms.katalon.core.common.CommonExecutor.accessTestCaseMainPhase(CommonExecutor.java:71)
+	at com.kms.katalon.core.main.TestSuiteExecutor.accessTestSuiteMainPhase(TestSuiteExecutor.java:160)
+	at com.kms.katalon.core.main.TestSuiteExecutor.execute(TestSuiteExecutor.java:107)
+	at com.kms.katalon.core.main.TestCaseMain.startTestSuite(TestCaseMain.java:180)
+	at TempTestSuite1742570414786.run(TempTestSuite1742570414786.groovy:35)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)]]></system-err>
+   </testsuite>
+</testsuites>
