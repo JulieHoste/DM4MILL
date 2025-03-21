@@ -69,7 +69,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.setText(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'), 
     '43')
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f'))
 
@@ -115,12 +115,4 @@ WebUI.delay(2)
 
 WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Integration Message Dashboard/div_StandardSelect ViewExpand Header'), 
     30)
-
-//WebDriver driver = DriverFactory.getWebDriver()
-//'To locate table'
-//WebElement Table = driver.findElement(By.xpath('//*[@id="__xmlview102--masterList-tblBody"]'))
-//WebElement element = driver.findElement(By.xpath('//table[1]/tbody'))
-//List<WebElement> rows_table = Table.findElements(By.tagName('tr'))
-//int rows_count = rows_table.size()
-//WebUI.verifyElementText(rows_table.get(1).findElements(By.tagName('td')).get(5).getText(), 'julie.hoste@delaware.pro')
 
