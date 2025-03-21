@@ -17,7 +17,7 @@ suiteProperties.put('id', 'Test Suites/TS02 - DM4MILL - GR')
 suiteProperties.put('name', 'TS02 - DM4MILL - GR')
 suiteProperties.put('description', '')
 suiteProperties.put('rerunTestFailImmediately', 'true')
-suiteProperties.put('retryCount', '3')
+suiteProperties.put('retryCount', '0')
  
 
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.webui.contribution.WebUiDriverCleaner())
@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_160442\\TS02 - DM4MILL - GR\\20250321_160442\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_162858\\TS02 - DM4MILL - GR\\20250321_162858\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_160442\\TS02 - DM4MILL - GR\\20250321_160442\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250321_162858\\TS02 - DM4MILL - GR\\20250321_162858\\testCaseBinding"))
