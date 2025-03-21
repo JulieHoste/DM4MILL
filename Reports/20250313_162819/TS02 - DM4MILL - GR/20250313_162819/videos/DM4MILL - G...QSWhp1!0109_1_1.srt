@@ -1,0 +1,108 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. maximizeWindow()
+
+3
+00:00:00,000 --> 00:00:00,000
+9. enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), username)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. delay(2)
+
+6
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/Page_Sign In/button_Continue"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. delay(2)
+
+8
+00:00:00,000 --> 00:00:00,000
+29. enhancedClick(findTestObject("Object Repository/Page_SAP Universal ID/button_I accept all cookies"))
+
+9
+00:00:00,000 --> 00:00:00,000
+33. delay(2)
+
+10
+00:00:00,000 --> 00:00:00,000
+37. setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ==")
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ==")
+
+13
+00:00:00,000 --> 00:00:00,000
+49. click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1"))
+
+14
+00:00:00,000 --> 00:00:00,000
+53. delay(4)
+
+15
+00:00:00,000 --> 00:00:00,000
+57. scrollToElement(findTestObject("Object Repository/Page_Home/div_DM4Mill GR Good Receipts"), 0)
+
+16
+00:00:00,000 --> 00:00:00,000
+61. click(findTestObject("Object Repository/Page_Home/span_DM4Mill GR"))
+
+17
+00:00:00,000 --> 00:00:00,000
+65. verifyElementPresent(findTestObject("Object Repository/Page_Home/span_DM4Mill GR"), 30)
+
+18
+00:00:00,000 --> 00:00:00,000
+69. delay(4)
+
+19
+00:00:00,000 --> 00:00:00,000
+73. enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc"))
+
+20
+00:00:00,000 --> 00:00:00,000
+77. setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078"), "43")
+
+21
+00:00:00,000 --> 00:00:00,000
+81. delay(3)
+
+22
+00:00:00,000 --> 00:00:00,000
+85. enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f"))
+
+23
+00:00:00,000 --> 00:00:00,000
+89. enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select"))
+
+24
+00:00:00,000 --> 00:00:00,000
+93. delay(2)
+
+25
+00:00:00,000 --> 00:00:00,000
+97. setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78"), orderId)
+
+26
+00:00:00,000 --> 00:00:00,000
+101. enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go"))
+
+27
+00:00:00,000 --> 00:00:00,000
+105. click(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2"))
+
