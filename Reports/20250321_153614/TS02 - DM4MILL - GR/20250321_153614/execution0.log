@@ -2146,3 +2146,42 @@
   <nestedLevel>0</nestedLevel>
   <escapedJava>false</escapedJava>
 </record>
+<record>
+  <date>2025-03-21T14:50:04.945190Z</date>
+  <millis>1742568604945</millis>
+  <nanos>190000</nanos>
+  <sequence>584</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>208</thread>
+  <message>Finding test data with id &amp;apos;Data Files/Excel/Excel - DM4MILL&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-21T14:50:04.947190Z</date>
+  <millis>1742568604947</millis>
+  <nanos>190000</nanos>
+  <sequence>585</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>208</thread>
+  <message>Test data is excel file, reading excel file</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
+<record>
+  <date>2025-03-21T14:50:04.948189600Z</date>
+  <millis>1742568604948</millis>
+  <nanos>189600</nanos>
+  <sequence>586</sequence>
+  <level>INFO</level>
+  <class>com.kms.katalon.core.logging.XmlKeywordLogger</class>
+  <method>logMessage</method>
+  <thread>208</thread>
+  <message>Reading excel file with source file &amp;apos;C:\Users\hostej\OneDrive - delaware\Desktop\DataFile.xlsx&amp;apos; and sheet name &amp;apos;Sheet1&amp;apos;</message>
+  <nestedLevel>0</nestedLevel>
+  <escapedJava>false</escapedJava>
+</record>
