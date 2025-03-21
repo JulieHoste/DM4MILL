@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>83efbe1d-14c0-45b5-b620-0ed25e6b1019</webElementGuid>
+      <webElementGuid>f9def0e2-dfce-4914-b73e-da89ad5b62cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner</value>
-      <webElementGuid>f00ad333-8bfa-4ef8-99b9-776dee868ff9</webElementGuid>
+      <webElementGuid>b86a7c3d-71e1-497d-b5a9-72b1033c83cc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>GR Qty</value>
-      <webElementGuid>70152035-0880-4044-9af7-7048b7a0e06f</webElementGuid>
+      <webElementGuid>a958fd1a-d14d-48a4-996f-ae43c42050cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>value</name>
       <type>Main</type>
       <value>500</value>
-      <webElementGuid>f9729324-97df-49dc-9cd0-322254c42f6a</webElementGuid>
+      <webElementGuid>a63836a5-afea-4740-ba5f-22fa8a9a731e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>d5428344-c858-4199-9a1c-d33244fd7afe</webElementGuid>
+      <webElementGuid>9ab0a1b6-fa2e-4729-b144-ca6a51afdea0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>df0c4157-d539-485f-9d4b-5253bcada6c5</webElementGuid>
+      <webElementGuid>0ae604bc-58b2-4b69-bce2-4d774a061857</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMInputBaseInner</value>
-      <webElementGuid>b3e86244-7f88-41b5-a756-8c6c46eb4068</webElementGuid>
+      <webElementGuid>10220f6c-b52e-4844-ad7d-25899c011c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner&quot;)</value>
-      <webElementGuid>b7b94ae4-2c98-48de-a401-167805e5da58</webElementGuid>
+      <webElementGuid>dd876619-3c9b-4436-b096-f5c10aabad72</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner']</value>
-      <webElementGuid>bdd6f5aa-8559-4ca4-8731-a172d4584d05</webElementGuid>
+      <webElementGuid>4ed688e7-f70d-4d49-96ab-709ecceb39ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-content']/input</value>
-      <webElementGuid>28129c85-dae5-4c13-8867-243bab4f55eb</webElementGuid>
+      <webElementGuid>3676e278-c48a-4d78-9fe6-a65e04847ce5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div[4]/div/div/input</value>
-      <webElementGuid>7a8629fe-c68e-4c8e-953b-feba56f0f195</webElementGuid>
+      <webElementGuid>7399178d-7995-402b-a229-a69e9229cb6d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--inputQTY-inner' and @placeholder = 'GR Qty' and @type = 'text']</value>
-      <webElementGuid>97f59bf8-4881-475d-a329-abd2cef26d18</webElementGuid>
+      <webElementGuid>f1984918-e37b-4f39-88a9-b014ea0ea3ba</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

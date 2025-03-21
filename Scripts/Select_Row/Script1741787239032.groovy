@@ -14,61 +14,46 @@ File html = new File("C:\\Users\\hostej\\DDE_DM4MILL_GR_FINAL.mhtml")
 WebUI.openBrowser(html.toURI().toURL().toExternalForm());
 
 WebUI.maximizeWindow()
-
-
 WebDriver driver = DriverFactory.getWebDriver()
 
 'To locate table'
-
 WebElement Table = driver.findElement(By.xpath('//*[@id="DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--grStockHistory-listUl"]'))
 
 // VALUES
 
 String ExpectedValue = '3344_00001'
 
-WebElement element = driver.findElement(By.xpath('//*[@id="__text89-__clone51"]'))
+// WebElement element = driver.findElement(By.xpath('//*[@id="__text89-__clone51"]'))
 
-String SetValue = element.text()
+WebElement element = driver.findElement(By.xpath("//table[1]/tbody"))
 
-List<WebElement> Rows = Table.findElements(By.tagName('tr'))
+'To locate rows of table it will Capture all the rows available in the table'
 
-println('No. of rows second table: ' + Rows.size())
-int rows_count = Rows.size()
+List<WebElement> rows_table = Table.findElements(By.tagName("tr"))
+'To calculate no of rows In table'
+int rows_count = rows_table.size()
 
-'Loop will execute for all the rows of the table'
-Loop:
-for (int row = 0; row < rows_count; row++) 
-	{
-		'To locate columns(cells) of that specific row'
-		
-		
-		List<WebElement> Columns_row = Rows.get(row).findElements(By.tagName('td'))
-		
-		
-		
-		'To calculate no of columns(cells) In that specific row'
-		
-		int columns_count = Columns_row.size()
-		 
-		println((('Number of cells In Row ' + row) + ' are ') + columns_count)
-	 
-		'Loop will execute till the last cell of that specific row'
-		for (int column = 0; column < columns_count; column++) 
-		{
+println('No. of rows second table: ' + rows_count)
 
-			'It will retrieve text from each cell'
-			String celltext = Columns_row.get(column).getText()
-	 
-			println((((('Cell Value Of row number ' + row) + ' and column number ') + column) + ' Is ') + celltext)
-	 
-			'Checking if Cell text is matching with the expected value'
-			if (celltext == ExpectedValue) 
-				{
-				'Getting the if cell text i.e Company name matches with Expected value'
-				println('Text present in row number'+ row +'  is: ' + Columns_row.get(6).getText())
-				 
-				'After getting the Expected value from Table we will Terminate the loop'
-				break Loop;
-				}
-		}
-	}
+// EXPECT VALUE
+String ColumnOrderId = rows_table.get(1).findElements(By.tagName('td')).get(3).getText()
+String ColumnQuantity = rows_table.get(1).findElements(By.tagName('td')).get(5).getText()
+String CombineCellText= ColumnOrderId + "_" + ColumnQuantity.replace(" M" , "")
+println("Expected Value: " + CombineCellText)
+
+String ColumnQuantity2 = rows_table.get(1).findElements(By.tagName('td')).get(5).getText()
+String strColQ2 = ColumnQuantity2.replace(" M" , "")
+
+
+int  numQ = {$numberQuantity}
+if( numQ == 1)
+{
+	int value = strColQ2 + 1
+	println("New value +1 : " + value)
+	
+}
+if (numQ == 2)
+{
+	int value = strColQ2 - 1
+	println("New value -1 : " + value)
+}

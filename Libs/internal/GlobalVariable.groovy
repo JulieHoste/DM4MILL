@@ -9,6 +9,11 @@ import com.kms.katalon.core.main.TestCaseMain
  */
 public class GlobalVariable {
      
+    /**
+     * <p></p>
+     */
+    public static Object QTY
+     
 
     static {
         try {
@@ -16,6 +21,7 @@ public class GlobalVariable {
 			selectedVariables += TestCaseMain.getGlobalVariables(RunConfiguration.getExecutionProfile())
             selectedVariables += TestCaseMain.getParsedValues(RunConfiguration.getOverridingParameters(), selectedVariables)
     
+            QTY = selectedVariables['QTY']
             
         } catch (Exception e) {
             TestCaseMain.logGlobalVariableError(e)

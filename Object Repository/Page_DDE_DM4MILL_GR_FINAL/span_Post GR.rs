@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>1c94f745-47ab-41da-abda-2a9d43599407</webElementGuid>
+      <webElementGuid>0e29b58b-9549-4551-98c9-163f5b28daf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>id</name>
       <type>Main</type>
       <value>DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--btnGrPosting-inner</value>
-      <webElementGuid>de1c47a7-962c-44cf-93f1-edb01bcc71f5</webElementGuid>
+      <webElementGuid>5a0349ec-101f-481f-bb7c-1ecafe342b44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>sapMBtnInner sapMBtnHoverable sapMFocusable sapMBtnText sapMBtnIconFirst sapMBtnEmphasized</value>
-      <webElementGuid>e2ec57a2-2019-46fc-9325-d254b15e77a0</webElementGuid>
+      <webElementGuid>ec94a404-3bf4-4ec4-9af0-e52c44776bf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Post GR</value>
-      <webElementGuid>c179a9ca-6cf5-4be0-9091-bbd1f83c1c45</webElementGuid>
+      <webElementGuid>62a4ac0f-efef-4228-b122-d8b6250ab67c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--btnGrPosting-inner&quot;)</value>
-      <webElementGuid>c111c4ea-da3f-4da1-a106-1220d23b2f70</webElementGuid>
+      <webElementGuid>3c72a4d2-8b59-43ba-a485-fb3e5d10a7c4</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//span[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--btnGrPosting-inner']</value>
-      <webElementGuid>6fdb3960-a4b8-4fec-8bbc-847680ea54c8</webElementGuid>
+      <webElementGuid>ad77471d-d42f-41f8-8968-d03ae01b841d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--btnGrPosting']/span</value>
-      <webElementGuid>ec14bd37-8a15-46fb-adc4-0e3df87cec4b</webElementGuid>
+      <webElementGuid>b668beab-ed96-4766-af97-333b48007e5f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Info Label'])[1]/following::span[1]</value>
-      <webElementGuid>eacc1e40-5e1a-4924-b0fb-5d5e6640875b</webElementGuid>
+      <webElementGuid>d476f677-d05f-4986-8feb-4d8db3b075cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='M'])[1]/following::span[2]</value>
-      <webElementGuid>e43cbbd2-a3a5-4914-94e5-d3f0e004a4a9</webElementGuid>
+      <webElementGuid>e701e180-1a94-405f-bed0-a1e0f26c32b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit Quantity'])[1]/preceding::span[3]</value>
-      <webElementGuid>305d0e32-2386-4779-bc9e-96e5a6fc7fb7</webElementGuid>
+      <webElementGuid>7b985b6c-23ec-4d61-b566-b4ae4fdbc08c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[7]/button/span</value>
-      <webElementGuid>c2dd8f9c-ef64-4e83-9e47-40445bcb21e0</webElementGuid>
+      <webElementGuid>713b6e15-410d-4458-81f3-5da52a9134d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[@id = 'DETAILSView--icontabfilterCSGXHZB1_plugin---MainView--btnGrPosting-inner' and (text() = 'Post GR' or . = 'Post GR')]</value>
-      <webElementGuid>cb566aa7-bb11-4485-a1dc-f573d4d161df</webElementGuid>
+      <webElementGuid>d127b116-b494-43d1-a9ea-92e2029b8796</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
