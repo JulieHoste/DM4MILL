@@ -1,0 +1,52 @@
+1
+00:00:00,000 --> 00:00:00,000
+1. openBrowser("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home")
+
+2
+00:00:00,000 --> 00:00:00,000
+5. maximizeWindow()
+
+3
+00:00:00,000 --> 00:00:00,000
+9. enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider"))
+
+4
+00:00:00,000 --> 00:00:00,000
+13. setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), username)
+
+5
+00:00:00,000 --> 00:00:00,000
+17. delay(2)
+
+6
+00:00:00,000 --> 00:00:00,000
+21. click(findTestObject("Object Repository/Page_Sign In/button_Continue"))
+
+7
+00:00:00,000 --> 00:00:00,000
+25. delay(2)
+
+8
+00:00:00,000 --> 00:00:00,000
+29. enhancedClick(findTestObject("Object Repository/Page_SAP Universal ID/button_I accept all cookies"))
+
+9
+00:00:00,000 --> 00:00:00,000
+33. delay(2)
+
+10
+00:00:00,000 --> 00:00:00,000
+37. setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ==")
+
+11
+00:00:00,000 --> 00:00:00,000
+41. click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1"))
+
+12
+00:00:00,000 --> 00:00:00,000
+45. delay(4)
+
+13
+00:00:00,000 --> 00:00:00,000
+49. scrollToElement(findTestObject("Object Repository/Page_Home/div_DM4Mill GR Good Receipts"), 0)
+

@@ -1,0 +1,18 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TS02 - DM4MILL - GR,Chrome 134.0.6998.118,,,21-03-2025 16:42:53,21-03-2025 16:43:49,"55,692s",FAILED
+,,,,,,,
+Test Cases/DM4MILL - Goods Receipts,Chrome 134.0.6998.118,,DM4MILL - GR,21-03-2025 16:42:53,21-03-2025 16:43:49,"55,397s",FAILED
+"DATA BINDING - {""(Default) usern..."":""julie.hoste@delaware.pro"",""(Default) quant..."":""1"",""(Default) passw..."":""cpQSwhp1!0109"",""(Default) order..."":""1003344""}",,,,,,,
+"openBrowser(""https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home"")",Chrome 134.0.6998.118,,,21-03-2025 16:42:54,21-03-2025 16:42:59,"5,043s",PASSED
+maximizeWindow(),Chrome 134.0.6998.118,,,21-03-2025 16:42:59,21-03-2025 16:42:59,"0,094s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_Login/a_Default Identity Provider""))",Chrome 134.0.6998.118,,,21-03-2025 16:42:59,21-03-2025 16:43:00,"1,068s",PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Email or User Name_j_username""), username)",Chrome 134.0.6998.118,,,21-03-2025 16:43:00,21-03-2025 16:43:01,"0,672s",PASSED
+delay(2),Chrome 134.0.6998.118,,,21-03-2025 16:43:01,21-03-2025 16:43:03,"2,050s",PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Continue""))",Chrome 134.0.6998.118,,,21-03-2025 16:43:03,21-03-2025 16:43:03,"0,530s",PASSED
+delay(2),Chrome 134.0.6998.118,,,21-03-2025 16:43:03,21-03-2025 16:43:05,"2,023s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_SAP Universal ID/button_I accept all cookies""))",Chrome 134.0.6998.118,,,21-03-2025 16:43:05,21-03-2025 16:43:06,"0,515s",PASSED
+delay(2),Chrome 134.0.6998.118,,,21-03-2025 16:43:06,21-03-2025 16:43:08,"2,017s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SAP Universal ID/input_pro_password""), ""UB7+rfb8H+So++oIaShgEQ=="")",Chrome 134.0.6998.118,,,21-03-2025 16:43:08,21-03-2025 16:43:08,"0,494s",PASSED
+"click(findTestObject(""Object Repository/Page_SAP Universal ID/button_Sign in_1""))",Chrome 134.0.6998.118,,,21-03-2025 16:43:08,21-03-2025 16:43:09,"0,354s",PASSED
+delay(4),Chrome 134.0.6998.118,,,21-03-2025 16:43:09,21-03-2025 16:43:13,"4,052s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Home/div_DM4Mill GR Good Receipts""), 0)",Chrome 134.0.6998.118,,,21-03-2025 16:43:13,21-03-2025 16:43:49,"35,973s",FAILED
