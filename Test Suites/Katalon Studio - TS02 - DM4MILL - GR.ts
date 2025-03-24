@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
+   <description>KSE - TS02</description>
    <name>Katalon Studio - TS02 - DM4MILL - GR</name>
    <tag></tag>
    <isRerun>false</isRerun>
