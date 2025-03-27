@@ -86,8 +86,10 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 
 WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2'))
 
+WebUI.waitForElementClickable(findTestObject('Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), 30)
+
 //Add Quantity
-WebUI.waitForElementClickable(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), 5)
+WebUI.verifyElementClickable(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), FailureHandling.CONTINUE_ON_FAILURE)
 
 WebUI.enhancedClick(findTestObject('Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
 

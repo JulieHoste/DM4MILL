@@ -18,9 +18,9 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.w
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
 
 
-RunConfiguration.setExecutionSettingFile('C:\\Users\\hostej\\AppData\\Local\\Temp\\Katalon\\Test Cases\\DM4MILL - Goods Receipts\\20250327_141641\\execution.properties')
+RunConfiguration.setExecutionSettingFile('C:\\Users\\hostej\\AppData\\Local\\Temp\\Katalon\\20250327_153326\\execution.properties')
 
 TestCaseMain.beforeStart()
 
-        TestCaseMain.runTestCase('Test Cases/DM4MILL - Goods Receipts', new TestCaseBinding('Test Cases/DM4MILL - Goods Receipts',[:]), FailureHandling.STOP_ON_FAILURE , false)
+        TestCaseMain.runTestCase('', new TestCaseBinding('',[:]), FailureHandling.STOP_ON_FAILURE , false)
     

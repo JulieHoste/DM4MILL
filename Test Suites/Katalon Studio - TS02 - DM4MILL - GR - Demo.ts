@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description></description>
-   <name>Katalon Studio - TS02 - DM4MILL - GR</name>
+   <description>Katalon TS run</description>
+   <name>Katalon Studio - TS02 - DM4MILL - GR - Demo</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient>julie.hoste@delaware.pro;</mailRecipient>
