@@ -13,8 +13,8 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
-suiteProperties.put('id', 'Test Suites/TS02 - DM4MILL - GR')
-suiteProperties.put('name', 'TS02 - DM4MILL - GR')
+suiteProperties.put('id', 'Test Suites/Katalon Studio - TS02 - DM4MILL - GR')
+suiteProperties.put('name', 'Katalon Studio - TS02 - DM4MILL - GR')
 suiteProperties.put('description', '')
 suiteProperties.put('rerunTestFailImmediately', 'true')
 suiteProperties.put('retryCount', '0')
@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_132548\\TS02 - DM4MILL - GR\\20250324_132548\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_154516\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_154516\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_132548\\TS02 - DM4MILL - GR\\20250324_132548\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/Katalon Studio - TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_154516\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_154516\\testCaseBinding"))

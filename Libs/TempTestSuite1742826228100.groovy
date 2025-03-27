@@ -28,8 +28,8 @@ DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.t
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_134848\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_134848\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_152348\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_152348\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/Katalon Studio - TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_134848\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_134848\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/Katalon Studio - TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_152348\\Katalon Studio - TS02 - DM4MILL - GR\\20250324_152348\\testCaseBinding"))

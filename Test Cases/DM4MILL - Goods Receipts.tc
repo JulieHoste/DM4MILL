@@ -3,6 +3,16 @@
    <description></description>
    <name>DM4MILL - Goods Receipts</name>
    <tag>DM4MILL - GR</tag>
+   <integratedEntity>
+      <productName>Azure</productName>
+      <properties>
+         <entry>
+            <key>azure.testcase.ids</key>
+            <value>118981</value>
+         </entry>
+      </properties>
+      <type>TESTCASE</type>
+   </integratedEntity>
    <comment></comment>
    <recordOption>OTHER</recordOption>
    <testCaseGuid>7c25254f-ff52-410e-83fc-9e2944381843</testCaseGuid>

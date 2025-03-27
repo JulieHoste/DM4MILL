@@ -13,23 +13,23 @@ import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 
 Map<String, String> suiteProperties = new HashMap<String, String>();
 
-suiteProperties.put('id', 'Test Suites/TS02 - DM4MILL - GR')
-suiteProperties.put('name', 'TS02 - DM4MILL - GR')
+suiteProperties.put('id', 'Test Suites/Katalon Studio - TS02 - DM4MILL - GR')
+suiteProperties.put('name', 'Katalon Studio - TS02 - DM4MILL - GR')
 suiteProperties.put('description', '')
 suiteProperties.put('rerunTestFailImmediately', 'true')
 suiteProperties.put('retryCount', '0')
  
 
-DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.webui.contribution.WebUiDriverCleaner())
-DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.mobile.contribution.MobileDriverCleaner())
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.cucumber.keyword.internal.CucumberDriverCleaner())
-DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.windows.keyword.contribution.WindowsDriverCleaner())
+DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.mobile.contribution.MobileDriverCleaner())
 DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.testng.keyword.internal.TestNGDriverCleaner())
+DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.webui.contribution.WebUiDriverCleaner())
+DriverCleanerCollector.getInstance().addDriverCleaner(new com.kms.katalon.core.windows.keyword.contribution.WindowsDriverCleaner())
 
 
 
-RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_112559\\TS02 - DM4MILL - GR\\20250324_112600\\execution.properties")
+RunConfiguration.setExecutionSettingFile("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250327_111232\\Katalon Studio - TS02 - DM4MILL - GR\\20250327_111233\\execution.properties")
 
 TestCaseMain.beforeStart()
 
-TestCaseMain.startTestSuite('Test Suites/TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250324_112559\\TS02 - DM4MILL - GR\\20250324_112600\\testCaseBinding"))
+TestCaseMain.startTestSuite('Test Suites/Katalon Studio - TS02 - DM4MILL - GR', suiteProperties, new File("C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250327_111232\\Katalon Studio - TS02 - DM4MILL - GR\\20250327_111233\\testCaseBinding"))

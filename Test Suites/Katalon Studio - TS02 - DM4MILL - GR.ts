@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
-   <description>KSE - TS02</description>
+   <description></description>
    <name>Katalon Studio - TS02 - DM4MILL - GR</name>
    <tag></tag>
    <isRerun>false</isRerun>
-   <mailRecipient></mailRecipient>
+   <mailRecipient>julie.hoste@delaware.pro;</mailRecipient>
    <numberOfRerun>0</numberOfRerun>
    <pageLoadTimeout>30</pageLoadTimeout>
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
@@ -16,11 +16,11 @@
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <iterationNameVariable>
-         <defaultValue>'cpQSwhp1!0109'</defaultValue>
+         <defaultValue>'julie.hoste@delaware.pro'</defaultValue>
          <description></description>
-         <id>f2c59cae-ee46-4a13-87b7-e2028f8556c0</id>
+         <id>e9787488-641f-4226-90f2-dc7b5f32d649</id>
          <masked>false</masked>
-         <name>password</name>
+         <name>username</name>
       </iterationNameVariable>
       <testCaseId>Test Cases/DM4MILL - Goods Receipts</testCaseId>
       <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
