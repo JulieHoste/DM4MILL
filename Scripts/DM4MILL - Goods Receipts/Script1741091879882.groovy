@@ -87,7 +87,7 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2'))
 
 //Add Quantity
-WebUI.waitForElementClickable(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), 3)
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), 5)
 
 WebUI.enhancedClick(findTestObject('Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
 
