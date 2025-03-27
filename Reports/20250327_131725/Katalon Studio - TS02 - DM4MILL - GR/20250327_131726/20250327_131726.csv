@@ -1,0 +1,32 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Katalon Studio - TS02 - DM4MILL - GR,Chrome 134.0.6998.177,,,27-03-2025 13:17:35,27-03-2025 13:19:36,"2m - 1,332s",FAILED
+,,,,,,,
+Test Cases/DM4MILL - Goods Receipts,Chrome 134.0.6998.177,,DM4MILL - GR,27-03-2025 13:17:35,27-03-2025 13:19:36,"2m - 1,077s",FAILED
+"DATA BINDING - {""(Default) usern..."":""julie.hoste@delaware.pro"",""(Default) quant..."":""1"",""(Default) passw..."":""cpQSwhp1!0109"",""(Default) order..."":""1003344""}",,,,,,,
+"openBrowser("""")",Chrome 134.0.6998.177,,,27-03-2025 13:17:36,27-03-2025 13:17:40,"4,267s",PASSED
+"navigateToUrl(""https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home"")",Chrome 134.0.6998.177,,,27-03-2025 13:17:40,27-03-2025 13:17:42,"1,603s",PASSED
+maximizeWindow(),Chrome 134.0.6998.177,,,27-03-2025 13:17:42,27-03-2025 13:17:42,"0,111s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_Login/a_Default Identity Provider""))",Chrome 134.0.6998.177,,,27-03-2025 13:17:42,27-03-2025 13:17:43,"1,281s",PASSED
+"setText(findTestObject(""Object Repository/Page_Sign In/input_Email or User Name_j_username""), username)",Chrome 134.0.6998.177,,,27-03-2025 13:17:43,27-03-2025 13:17:44,"0,882s",PASSED
+delay(2),Chrome 134.0.6998.177,,,27-03-2025 13:17:44,27-03-2025 13:17:46,"2,051s",PASSED
+"click(findTestObject(""Object Repository/Page_Sign In/button_Continue""))",Chrome 134.0.6998.177,,,27-03-2025 13:17:46,27-03-2025 13:17:47,"0,528s",PASSED
+delay(2),Chrome 134.0.6998.177,,,27-03-2025 13:17:47,27-03-2025 13:17:49,"2,032s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_SAP Universal ID/button_I accept all cookies""))",Chrome 134.0.6998.177,,,27-03-2025 13:17:49,27-03-2025 13:17:49,"0,425s",PASSED
+delay(2),Chrome 134.0.6998.177,,,27-03-2025 13:17:49,27-03-2025 13:17:51,"2,038s",PASSED
+"setEncryptedText(findTestObject(""Object Repository/Page_SAP Universal ID/input_pro_password""), ""UB7+rfb8H+So++oIaShgEQ=="")",Chrome 134.0.6998.177,,,27-03-2025 13:17:51,27-03-2025 13:17:52,"1,258s",PASSED
+"click(findTestObject(""Object Repository/Page_SAP Universal ID/button_Sign in_1""))",Chrome 134.0.6998.177,,,27-03-2025 13:17:52,27-03-2025 13:17:53,"0,439s",PASSED
+delay(4),Chrome 134.0.6998.177,,,27-03-2025 13:17:53,27-03-2025 13:17:57,"4,031s",PASSED
+"scrollToElement(findTestObject(""Object Repository/Page_Home/div_DM4Mill GR Good Receipts""), 0)",Chrome 134.0.6998.177,,,27-03-2025 13:17:57,27-03-2025 13:18:04,"6,942s",PASSED
+"click(findTestObject(""Object Repository/Page_Home/span_DM4Mill GR""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:04,27-03-2025 13:18:04,"0,453s",PASSED
+"verifyElementPresent(findTestObject(""Object Repository/Page_Home/span_DM4Mill GR""), 30)",Chrome 134.0.6998.177,,,27-03-2025 13:18:04,27-03-2025 13:18:09,"4,594s",PASSED
+delay(4),Chrome 134.0.6998.177,,,27-03-2025 13:18:09,27-03-2025 13:18:13,"4,042s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:13,27-03-2025 13:18:18,"4,844s",PASSED
+"setText(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078""), ""43"")",Chrome 134.0.6998.177,,,27-03-2025 13:18:18,27-03-2025 13:18:19,"0,947s",PASSED
+delay(1),Chrome 134.0.6998.177,,,27-03-2025 13:18:19,27-03-2025 13:18:20,"1,035s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:20,27-03-2025 13:18:20,"0,628s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:20,27-03-2025 13:18:21,"0,850s",PASSED
+delay(2),Chrome 134.0.6998.177,,,27-03-2025 13:18:21,27-03-2025 13:18:23,"2,027s",PASSED
+"setText(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78""), orderId)",Chrome 134.0.6998.177,,,27-03-2025 13:18:23,27-03-2025 13:18:24,"1,256s",PASSED
+"enhancedClick(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:24,27-03-2025 13:18:25,"0,825s",PASSED
+"click(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:25,27-03-2025 13:18:59,"33,452s",PASSED
+"click(findTestObject(""Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt""))",Chrome 134.0.6998.177,,,27-03-2025 13:18:59,27-03-2025 13:19:36,"37,659s",FAILED

@@ -1,0 +1,6 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Katalon Studio - TS02 - DM4MILL - GR,,,,27-03-2025 13:07:13,27-03-2025 13:07:17,"3,356s",FAILED
+,,,,,,,
+Test Cases/DM4MILL - Goods Receipts,,,DM4MILL - GR,27-03-2025 13:07:14,27-03-2025 13:07:17,"3,180s",FAILED
+"DATA BINDING - {""(Default) usern..."":""julie.hoste@delaware.pro"",""(Default) quant..."":""1"",""(Default) passw..."":""cpQSwhp1!0109"",""(Default) order..."":""1003344""}",,,,,,,
+"openBrowser("""")",,,,27-03-2025 13:07:14,27-03-2025 13:07:17,"2,802s",FAILED
