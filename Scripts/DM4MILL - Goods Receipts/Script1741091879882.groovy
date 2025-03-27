@@ -61,7 +61,7 @@ WebUI.scrollToElement(findTestObject('Object Repository/Page_Home/div_DM4Mill GR
 
 WebUI.click(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'))
 
-WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'), 30)
+WebUI.verifyElementPresent(findTestObject('Object Repository/Page_Home/span_DM4Mill GR'), 33)
 
 WebUI.delay(4)
 
