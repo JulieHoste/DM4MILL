@@ -30,9 +30,10 @@ import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 // LOG IN (DMC)
-
 WebUI.openBrowser('')
+
 WebUI.navigateToUrl('https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home')
+
 WebUI.maximizeWindow()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/a_Default Identity Provider'))
@@ -86,7 +87,9 @@ WebUI.enhancedClick(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/
 WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2'))
 
 //Add Quantity
-WebUI.click(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
+WebUI.waitForElementClickable(findTestObject('Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'), 3)
+
+WebUI.enhancedClick(findTestObject('Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt'))
 
 WebUI.delay(2)
 

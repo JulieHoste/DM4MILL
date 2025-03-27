@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Katalon Studio - TS02 - DM4MILL - GR" time="74.346" tests="1" failures="0" errors="0">
+   <testsuite name="Katalon Studio - TS02 - DM4MILL - GR" tests="1" failures="0" errors="0" time="74.346" skipped="0" timestamp="27-03-2025T14:01:52" hostname="hostej - DCI5CG4401B3V.gsinet.be" id="Test Suites/Katalon Studio - TS02 - DM4MILL - GR">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250327_140100\\Katalon Studio - TS02 - DM4MILL - GR\\20250327_140101"/>
+         <property name="logFiles" value="C:\\Users\\hostej\\OneDrive - delaware\\Documents\\GitHub\\DM4MILL\\Reports\\20250327_140100\\Katalon Studio - TS02 - DM4MILL - GR\\20250327_140101\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="hostej - DCI5CG4401B3V.gsinet.be"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="10.1.1.0"/>
+         <property name="browser" value="Chrome 134.0.6998.177"/>
+         <property name="hostAddress" value="192.168.129.68"/>
+         <property name="sessionId" value="a4605223846e48c2858c39b80eb22359"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/DM4MILL - Goods Receipts" time="73.626" classname="Test Cases/DM4MILL - Goods Receipts" status="PASSED">
+         <properties>
+            <property name="data_binding"><![CDATA[{"(Default) usern...":"julie.hoste@delaware.pro","(Default) quant...":"1","(Default) passw...":"cpQSwhp1!0109","(Default) order...":"1003344"}]]></property>
+         </properties>
+         <system-out><![CDATA[27-03-2025T14:01:53 - [TEST_CASE][PASSED] - Test Cases/DM4MILL - Goods Receipts: Test Cases/DM4MILL - Goods Receipts
+
+27-03-2025T14:01:54 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+27-03-2025T14:01:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+27-03-2025T14:01:54 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+27-03-2025T14:01:57 - [MESSAGE][WARNING] - FFmpeg was not installed! Browser Recording will be disabled. Please follow this document to install FFmpeg first: https://docs.katalon.com/katalon-studio/docs/screenshots-videos.html#browser-based-recorder
+
+27-03-2025T14:01:57 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+27-03-2025T14:01:57 - [TEST_STEP][PASSED] - navigateToUrl("https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home"): Navigate to 'https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home' successfully
+
+27-03-2025T14:01:59 - [MESSAGE][PASSED] - Navigate to 'https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home' successfully
+
+27-03-2025T14:01:59 - [TEST_STEP][PASSED] - maximizeWindow(): Current window maximized
+
+27-03-2025T14:01:59 - [MESSAGE][PASSED] - Current window maximized
+
+27-03-2025T14:01:59 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_Login/a_Default Identity Provider")): Object: 'Object Repository/Page_Login/a_Default Identity Provider' is clicked on
+
+27-03-2025T14:02:01 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Login/a_Default Identity Provider' is clicked on
+
+27-03-2025T14:02:01 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_Sign In/input_Email or User Name_j_username"), username): Text 'julie.hoste@delaware.pro' is set on object 'Object Repository/Page_Sign In/input_Email or User Name_j_username'
+
+27-03-2025T14:02:02 - [MESSAGE][PASSED] - Text 'julie.hoste@delaware.pro' is set on object 'Object Repository/Page_Sign In/input_Email or User Name_j_username'
+
+27-03-2025T14:02:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:02:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:02:04 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Sign In/button_Continue")): Object: 'Object Repository/Page_Sign In/button_Continue' is clicked on
+
+27-03-2025T14:02:04 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Sign In/button_Continue' is clicked on
+
+27-03-2025T14:02:04 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:02:06 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:02:06 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_SAP Universal ID/button_I accept all cookies")): Object: 'Object Repository/Page_SAP Universal ID/button_I accept all cookies' is clicked on
+
+27-03-2025T14:02:07 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SAP Universal ID/button_I accept all cookies' is clicked on
+
+27-03-2025T14:02:07 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:02:09 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:02:09 - [TEST_STEP][PASSED] - setEncryptedText(findTestObject("Object Repository/Page_SAP Universal ID/input_pro_password"), "UB7+rfb8H+So++oIaShgEQ=="): Text ****** has been set on object 'Object Repository/Page_SAP Universal ID/input_pro_password'
+
+27-03-2025T14:02:11 - [MESSAGE][PASSED] - Text ****** has been set on object 'Object Repository/Page_SAP Universal ID/input_pro_password'
+
+27-03-2025T14:02:11 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_SAP Universal ID/button_Sign in_1")): Object: 'Object Repository/Page_SAP Universal ID/button_Sign in_1' is clicked on
+
+27-03-2025T14:02:11 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_SAP Universal ID/button_Sign in_1' is clicked on
+
+27-03-2025T14:02:11 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+27-03-2025T14:02:15 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+27-03-2025T14:02:15 - [TEST_STEP][PASSED] - scrollToElement(findTestObject("Object Repository/Page_Home/div_DM4Mill GR Good Receipts"), 0): Scroll to object 'Object Repository/Page_Home/div_DM4Mill GR Good Receipts' successfully
+
+27-03-2025T14:02:15 - [MESSAGE][WARNING] - Timeout '0' is invalid. Using default page load timeout: '30'
+
+27-03-2025T14:02:24 - [MESSAGE][PASSED] - Scroll to object 'Object Repository/Page_Home/div_DM4Mill GR Good Receipts' successfully
+
+27-03-2025T14:02:24 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Home/span_DM4Mill GR")): Object: 'Object Repository/Page_Home/span_DM4Mill GR' is clicked on
+
+27-03-2025T14:02:25 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Home/span_DM4Mill GR' is clicked on
+
+27-03-2025T14:02:25 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Home/span_DM4Mill GR"), 30): Object 'Object Repository/Page_Home/span_DM4Mill GR' is present
+
+27-03-2025T14:02:30 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Home/span_DM4Mill GR' is present
+
+27-03-2025T14:02:30 - [TEST_STEP][PASSED] - delay(4): Delayed 4 second(s)
+
+27-03-2025T14:02:34 - [MESSAGE][PASSED] - Delayed 4 second(s)
+
+27-03-2025T14:02:34 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc' is clicked on
+
+27-03-2025T14:02:37 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Work Center___xmlview100--reservedComp_9efbcc' is clicked on
+
+27-03-2025T14:02:37 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078"), "43"): Text '43' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'
+
+27-03-2025T14:02:38 - [MESSAGE][PASSED] - Text '43' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Select Work Center___xmlview100--rese_915078'
+
+27-03-2025T14:02:38 - [TEST_STEP][PASSED] - delay(1): Delayed 1 second(s)
+
+27-03-2025T14:02:39 - [MESSAGE][PASSED] - Delayed 1 second(s)
+
+27-03-2025T14:02:39 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f' is clicked on
+
+27-03-2025T14:02:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Clear___xmlview100--reservedComponentCo_b6c65f' is clicked on
+
+27-03-2025T14:02:40 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select' is clicked on
+
+27-03-2025T14:02:40 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/bdi_Select' is clicked on
+
+27-03-2025T14:02:40 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:02:42 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:02:42 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78"), orderId): Text '1003344' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78'
+
+27-03-2025T14:02:43 - [MESSAGE][PASSED] - Text '1003344' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Order ID___xmlview100--reservedCompon_66eb78'
+
+27-03-2025T14:02:43 - [TEST_STEP][PASSED] - enhancedClick(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go' is clicked on
+
+27-03-2025T14:02:44 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Go' is clicked on
+
+27-03-2025T14:02:44 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2' is clicked on
+
+27-03-2025T14:02:47 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/td_1003344_1_2' is clicked on
+
+27-03-2025T14:02:47 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt' is clicked on
+
+27-03-2025T14:02:50 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Mill Goods Receipt' is clicked on
+
+27-03-2025T14:02:50 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:02:52 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:02:52 - [TEST_STEP][PASSED] - clearText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3")): Text of object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3' is cleared
+
+27-03-2025T14:02:53 - [MESSAGE][PASSED] - Text of object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3' is cleared
+
+27-03-2025T14:02:53 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3"), quantity): Text '1' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'
+
+27-03-2025T14:02:54 - [MESSAGE][PASSED] - Text '1' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_GR Qty_DETAILSView--icontabfilterCSGX_c763b3'
+
+27-03-2025T14:02:54 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Post GR")): Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Post GR' is clicked on
+
+27-03-2025T14:02:54 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Post GR' is clicked on
+
+27-03-2025T14:02:54 - [TEST_STEP][PASSED] - verifyElementVisible(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Quantity Confirmed Successfully")): Object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Quantity Confirmed Successfully' is visible
+
+27-03-2025T14:02:56 - [MESSAGE][PASSED] - Object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/div_Quantity Confirmed Successfully' is visible
+
+27-03-2025T14:02:56 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Plant 1210 ( DDE - Plant )_searchField_91847b"), 30): Object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Plant 1210 ( DDE - Plant )_searchField_91847b' is present
+
+27-03-2025T14:02:57 - [MESSAGE][PASSED] - Object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/span_Plant 1210 ( DDE - Plant )_searchField_91847b' is present
+
+27-03-2025T14:02:57 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search"), "Integration Message Dashboard"): Text 'Integration Message Dashboard' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search'
+
+27-03-2025T14:02:58 - [MESSAGE][PASSED] - Text 'Integration Message Dashboard' is set on object 'Object Repository/Page_DDE_DM4MILL_GR_FINAL/input_Plant 1210 ( DDE - Plant )_search'
+
+27-03-2025T14:02:58 - [TEST_STEP][PASSED] - sendKeys(findTestObject("Object Repository/Page_Integration Message Dashboard/input_Plant 1210 ( DDE - Plant )_search"), Keys.chord(ENTER)): Keys 'ENTER + ' sent to object: 'Object Repository/Page_Integration Message Dashboard/input_Plant 1210 ( DDE - Plant )_search'
+
+27-03-2025T14:02:59 - [MESSAGE][PASSED] - Keys 'ENTER + ' sent to object: 'Object Repository/Page_Integration Message Dashboard/input_Plant 1210 ( DDE - Plant )_search'
+
+27-03-2025T14:02:59 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:03:01 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:03:01 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Search for Integration Message dashboa_230a0e/div_Integration Message Dashboard")): Object: 'Object Repository/Page_Search for Integration Message dashboa_230a0e/div_Integration Message Dashboard' is clicked on
+
+27-03-2025T14:03:02 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Search for Integration Message dashboa_230a0e/div_Integration Message Dashboard' is clicked on
+
+27-03-2025T14:03:02 - [TEST_STEP][PASSED] - delay(2): Delayed 2 second(s)
+
+27-03-2025T14:03:04 - [MESSAGE][PASSED] - Delayed 2 second(s)
+
+27-03-2025T14:03:04 - [TEST_STEP][PASSED] - verifyElementPresent(findTestObject("Object Repository/Page_Integration Message Dashboard/div_StandardSelect ViewExpand Header"), 30): Object 'Object Repository/Page_Integration Message Dashboard/div_StandardSelect ViewExpand Header' is present
+
+27-03-2025T14:03:06 - [MESSAGE][PASSED] - Object 'Object Repository/Page_Integration Message Dashboard/div_StandardSelect ViewExpand Header' is present]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[27-03-2025T14:01:52 - [TEST_SUITE][PASSED] - Katalon Studio - TS02 - DM4MILL - GR: Test Cases/DM4MILL - Goods Receipts]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>
