@@ -30,8 +30,9 @@ import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 
 // LOG IN (DMC)
-WebUI.openBrowser('https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home')
 
+WebUI.openBrowser('')
+WebUI.navigateToUrl('https://dlwr-dmc-discovery.execution.us10-quality.web.dmc.cloud.sap/cp.portal/site#Shell-home')
 WebUI.maximizeWindow()
 
 WebUI.enhancedClick(findTestObject('Object Repository/Page_Login/a_Default Identity Provider'))
