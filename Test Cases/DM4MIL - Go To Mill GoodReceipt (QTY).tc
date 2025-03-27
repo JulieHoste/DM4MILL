@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>DM4MIL - Go To Mill GoodReceipt (QTY)</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>5d072507-3e4a-4066-bd18-85a44210149f</testCaseGuid>
-</TestCaseEntity>

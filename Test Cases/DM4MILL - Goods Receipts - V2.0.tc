@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>DM4MILL - Goods Receipts - V2.0</name>
-   <tag>DM4MILL - GR</tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>0aad5de3-fa45-4de1-a197-820f56189183</testCaseGuid>
-</TestCaseEntity>
