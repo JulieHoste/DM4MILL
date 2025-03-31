@@ -17,5 +17,5 @@ steps:
 - task: katalonTask@1
   inputs:
     version: '10.1.0'
-    executeArgs: 'katalonc -noSplash -runMode=console -projectPath="C:\Users\hostej\OneDrive - delaware\Documents\GitHub\DM4MILL_Demo\DM4MILL_Demo.prj" -retry=0 -testSuitePath="Test Suites/Katalon Studio - TS02 - DM4MILL - GR - Demo" -browserType="Chrome" -executionProfile="Team" -apiKey="b9ce20fc-7bad-484d-908d-27ae7997e408"'
+    executeArgs: 'katalonc -noSplash -runMode=console -projectPath="C:\Users\hostej\OneDrive - delaware\Documents\GitHub\DM4MILL_Demo\DM4MILL_Demo.prj" -retry=0 -testSuitePath="Test Suites/Katalon Studio - TS02 - DM4MILL - GR - Demo" -browserType="Chrome" -executionProfile="Team" -apiKey="b9ce20fc-7bad-484d-908d-27ae7997e408" -testRunTitle="Azure_DevOps_TestRun_DM4Mill".'
   displayName: 'AzureDevOps -  Katalon - DM4Mill_Demo'
